@@ -3,11 +3,11 @@
   <title>Hexo</title>
   
   
-  <link href="https://github.com/HeHeHuang/HeHeHuang.github.io/atom.xml" rel="self"/>
+  <link href="https://hehehuang.github.io/atom.xml" rel="self"/>
   
-  <link href="https://github.com/HeHeHuang/HeHeHuang.github.io/"/>
+  <link href="https://hehehuang.github.io/"/>
   <updated>2022-09-21T09:07:41.547Z</updated>
-  <id>https://github.com/HeHeHuang/HeHeHuang.github.io/</id>
+  <id>https://hehehuang.github.io/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://github.com/HeHeHuang/HeHeHuang.github.io/2022/09/21/hello-world/"/>
-    <id>https://github.com/HeHeHuang/HeHeHuang.github.io/2022/09/21/hello-world/</id>
+    <link href="https://hehehuang.github.io/2022/09/21/hello-world/"/>
+    <id>https://hehehuang.github.io/2022/09/21/hello-world/</id>
     <published>2022-09-21T04:56:46.088Z</published>
     <updated>2022-09-21T09:07:41.547Z</updated>
     
@@ -38,10 +38,10 @@
   
   <entry>
     <title>AWS</title>
-    <link href="https://github.com/HeHeHuang/HeHeHuang.github.io/2022/09/20/AWS/"/>
-    <id>https://github.com/HeHeHuang/HeHeHuang.github.io/2022/09/20/AWS/</id>
+    <link href="https://hehehuang.github.io/2022/09/20/AWS/"/>
+    <id>https://hehehuang.github.io/2022/09/20/AWS/</id>
     <published>2022-09-19T17:45:57.203Z</published>
-    <updated>2022-09-21T08:03:55.044Z</updated>
+    <updated>2022-09-21T09:53:28.181Z</updated>
     
     <content type="html"><![CDATA[<h1 id="What-is-AWS"><a href="#What-is-AWS" class="headerlink" title="What is AWS?"></a>What is AWS?</h1><h3 id=""><a href="#" class="headerlink" title=""></a></h3><h2 id="Big-data-framework"><a href="#Big-data-framework" class="headerlink" title="Big data framework"></a>Big data framework</h2><h2 id="what-is-componence-of-AWS-with-Big-Data-ecosystem"><a href="#what-is-componence-of-AWS-with-Big-Data-ecosystem" class="headerlink" title="what is componence of AWS with Big Data ecosystem"></a>what is componence of AWS with Big Data ecosystem</h2>]]></content>
     
@@ -58,8 +58,8 @@
   
   <entry>
     <title>Hadoop</title>
-    <link href="https://github.com/HeHeHuang/HeHeHuang.github.io/2022/09/20/Hadoop/"/>
-    <id>https://github.com/HeHeHuang/HeHeHuang.github.io/2022/09/20/Hadoop/</id>
+    <link href="https://hehehuang.github.io/2022/09/20/Hadoop/"/>
+    <id>https://hehehuang.github.io/2022/09/20/Hadoop/</id>
     <published>2022-09-19T17:45:57.203Z</published>
     <updated>2022-09-21T09:08:14.299Z</updated>
     
@@ -73,12 +73,12 @@
     
     
     
-    <category term="Big Data" scheme="https://github.com/HeHeHuang/HeHeHuang.github.io/categories/Big-Data/"/>
+    <category term="Big Data" scheme="https://hehehuang.github.io/categories/Big-Data/"/>
     
     
-    <category term="Hadoop" scheme="https://github.com/HeHeHuang/HeHeHuang.github.io/tags/Hadoop/"/>
+    <category term="Hadoop" scheme="https://hehehuang.github.io/tags/Hadoop/"/>
     
-    <category term="Mapreduce" scheme="https://github.com/HeHeHuang/HeHeHuang.github.io/tags/Mapreduce/"/>
+    <category term="Mapreduce" scheme="https://hehehuang.github.io/tags/Mapreduce/"/>
     
   </entry>
   
