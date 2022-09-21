@@ -3,11 +3,11 @@
   <title>Hexo</title>
   
   
-  <link href="https://github.com/HeHeHuang/HeHeHuang/atom.xml" rel="self"/>
+  <link href="https://github.com/HeHeHuang/HeHeHuang.github.io/atom.xml" rel="self"/>
   
-  <link href="https://github.com/HeHeHuang/HeHeHuang/"/>
-  <updated>2022-09-21T08:49:10.077Z</updated>
-  <id>https://github.com/HeHeHuang/HeHeHuang/</id>
+  <link href="https://github.com/HeHeHuang/HeHeHuang.github.io/"/>
+  <updated>2022-09-21T09:07:41.547Z</updated>
+  <id>https://github.com/HeHeHuang/HeHeHuang.github.io/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://github.com/HeHeHuang/HeHeHuang/2022/09/21/hello-world/"/>
-    <id>https://github.com/HeHeHuang/HeHeHuang/2022/09/21/hello-world/</id>
+    <link href="https://github.com/HeHeHuang/HeHeHuang.github.io/2022/09/21/hello-world/"/>
+    <id>https://github.com/HeHeHuang/HeHeHuang.github.io/2022/09/21/hello-world/</id>
     <published>2022-09-21T04:56:46.088Z</published>
-    <updated>2022-09-21T08:49:10.077Z</updated>
+    <updated>2022-09-21T09:07:41.547Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
@@ -33,19 +33,13 @@
     
     
     
-    <category term="Diary" scheme="https://github.com/HeHeHuang/HeHeHuang/categories/Diary/"/>
-    
-    
-    <category term="PS3" scheme="https://github.com/HeHeHuang/HeHeHuang/tags/PS3/"/>
-    
-    <category term="Games" scheme="https://github.com/HeHeHuang/HeHeHuang/tags/Games/"/>
     
   </entry>
   
   <entry>
     <title>AWS</title>
-    <link href="https://github.com/HeHeHuang/HeHeHuang/2022/09/20/AWS/"/>
-    <id>https://github.com/HeHeHuang/HeHeHuang/2022/09/20/AWS/</id>
+    <link href="https://github.com/HeHeHuang/HeHeHuang.github.io/2022/09/20/AWS/"/>
+    <id>https://github.com/HeHeHuang/HeHeHuang.github.io/2022/09/20/AWS/</id>
     <published>2022-09-19T17:45:57.203Z</published>
     <updated>2022-09-21T08:03:55.044Z</updated>
     
@@ -64,10 +58,10 @@
   
   <entry>
     <title>Hadoop</title>
-    <link href="https://github.com/HeHeHuang/HeHeHuang/2022/09/20/Hadoop/"/>
-    <id>https://github.com/HeHeHuang/HeHeHuang/2022/09/20/Hadoop/</id>
+    <link href="https://github.com/HeHeHuang/HeHeHuang.github.io/2022/09/20/Hadoop/"/>
+    <id>https://github.com/HeHeHuang/HeHeHuang.github.io/2022/09/20/Hadoop/</id>
     <published>2022-09-19T17:45:57.203Z</published>
-    <updated>2022-09-21T08:03:52.460Z</updated>
+    <updated>2022-09-21T09:08:14.299Z</updated>
     
     <content type="html"><![CDATA[<h1 id="What-is-Hadoop"><a href="#What-is-Hadoop" class="headerlink" title="What is Hadoop"></a>What is Hadoop</h1><p>Hadoop &#x3D; HDFS + MapReduce </p><h3 id="why-need-Hadoop"><a href="#why-need-Hadoop" class="headerlink" title="why need Hadoop?"></a>why need Hadoop?</h3><p>because the cpu, distrbution computing. </p><p>what is changes</p><h2 id="Hadoop-1-0"><a href="#Hadoop-1-0" class="headerlink" title="Hadoop 1.0"></a>Hadoop 1.0</h2><h2 id="Hadoop-2-0"><a href="#Hadoop-2-0" class="headerlink" title="Hadoop 2.0"></a>Hadoop 2.0</h2><h2 id="Hadoop-3-0"><a href="#Hadoop-3-0" class="headerlink" title="Hadoop 3.0"></a>Hadoop 3.0</h2>]]></content>
     
@@ -79,26 +73,12 @@
     
     
     
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="https://github.com/HeHeHuang/HeHeHuang/2022/09/20/PySpark/"/>
-    <id>https://github.com/HeHeHuang/HeHeHuang/2022/09/20/PySpark/</id>
-    <published>2022-09-19T17:45:57.203Z</published>
-    <updated>2022-09-20T19:14:22.388Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="What-is-Spark"><a href="#What-is-Spark" class="headerlink" title="What is Spark?"></a>What is Spark?</h1><p>computing framework, </p><h2 id="why-need-Spark"><a href="#why-need-Spark" class="headerlink" title="why need Spark?"></a>why need Spark?</h2><p>using to replace mapreduce</p><h2 id="How-Spark-Process"><a href="#How-Spark-Process" class="headerlink" title="How Spark Process?"></a>How Spark Process?</h2><h3 id="Spark-Core"><a href="#Spark-Core" class="headerlink" title="Spark Core"></a>Spark Core</h3><h3 id="Spark-Sql"><a href="#Spark-Sql" class="headerlink" title="Spark Sql"></a>Spark Sql</h3><h3 id="Spark-streaming"><a href="#Spark-streaming" class="headerlink" title="Spark streaming"></a>Spark streaming</h3><h3 id="Spark-ML"><a href="#Spark-ML" class="headerlink" title="Spark ML"></a>Spark ML</h3>]]></content>
+    <category term="Big Data" scheme="https://github.com/HeHeHuang/HeHeHuang.github.io/categories/Big-Data/"/>
     
     
-      
-      
-    <summary type="html">&lt;h1 id=&quot;What-is-Spark&quot;&gt;&lt;a href=&quot;#What-is-Spark&quot; class=&quot;headerlink&quot; title=&quot;What is Spark?&quot;&gt;&lt;/a&gt;What is Spark?&lt;/h1&gt;&lt;p&gt;computing framework, &lt;/p</summary>
-      
+    <category term="Hadoop" scheme="https://github.com/HeHeHuang/HeHeHuang.github.io/tags/Hadoop/"/>
     
-    
-    
+    <category term="Mapreduce" scheme="https://github.com/HeHeHuang/HeHeHuang.github.io/tags/Mapreduce/"/>
     
   </entry>
   

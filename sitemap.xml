@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://github.com/HeHeHuang/HeHeHuang/2022/09/21/hello-world/</loc>
+    <loc>https://github.com/HeHeHuang/HeHeHuang.github.io/2022/09/20/Hadoop/</loc>
     
     <lastmod>2022-09-21</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://github.com/HeHeHuang/HeHeHuang/2022/09/20/AWS/</loc>
+    <loc>https://github.com/HeHeHuang/HeHeHuang.github.io/2022/09/21/hello-world/</loc>
     
     <lastmod>2022-09-21</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://github.com/HeHeHuang/HeHeHuang/2022/09/20/Hadoop/</loc>
+    <loc>https://github.com/HeHeHuang/HeHeHuang.github.io/2022/09/20/AWS/</loc>
     
     <lastmod>2022-09-21</lastmod>
     
@@ -29,9 +29,54 @@
   </url>
   
   <url>
-    <loc>https://github.com/HeHeHuang/HeHeHuang/2022/09/20/PySpark/</loc>
+    <loc>https://github.com/HeHeHuang/HeHeHuang.github.io/tags/index.html</loc>
     
-    <lastmod>2022-09-20</lastmod>
+    <lastmod>2022-09-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/HeHeHuang/HeHeHuang.github.io/categories/index.html</loc>
+    
+    <lastmod>2022-09-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/HeHeHuang/HeHeHuang.github.io/links/index.html</loc>
+    
+    <lastmod>2022-09-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/HeHeHuang/HeHeHuang.github.io/repository/index.html</loc>
+    
+    <lastmod>2022-09-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/HeHeHuang/HeHeHuang.github.io/about/index.html</loc>
+    
+    <lastmod>2022-09-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/HeHeHuang/HeHeHuang.github.io/books/index.html</loc>
+    
+    <lastmod>2022-09-21</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -39,7 +84,7 @@
   
 
   <url>
-    <loc>https://github.com/HeHeHuang/HeHeHuang</loc>
+    <loc>https://github.com/HeHeHuang/HeHeHuang.github.io</loc>
     <lastmod>2022-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -47,14 +92,14 @@
 
   
   <url>
-    <loc>https://github.com/HeHeHuang/HeHeHuang/tags/PS3/</loc>
+    <loc>https://github.com/HeHeHuang/HeHeHuang.github.io/tags/Hadoop/</loc>
     <lastmod>2022-09-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://github.com/HeHeHuang/HeHeHuang/tags/Games/</loc>
+    <loc>https://github.com/HeHeHuang/HeHeHuang.github.io/tags/Mapreduce/</loc>
     <lastmod>2022-09-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -63,7 +108,7 @@
 
   
   <url>
-    <loc>https://github.com/HeHeHuang/HeHeHuang/categories/Diary/</loc>
+    <loc>https://github.com/HeHeHuang/HeHeHuang.github.io/categories/Big-Data/</loc>
     <lastmod>2022-09-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
