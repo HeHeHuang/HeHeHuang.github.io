@@ -1,9 +1,8 @@
 https://hehehuang.github.io/2022/09/20/PySpark/
+https://hehehuang.github.io/2022/09/20/Hadoop/
 https://hehehuang.github.io/2022/09/22/Tree/
 https://hehehuang.github.io/2022/09/22/sorting/
-https://hehehuang.github.io/2022/09/20/Hadoop/
 https://hehehuang.github.io/2022/09/20/AWS/
-https://hehehuang.github.io/2022/09/21/hello-world/
 https://hehehuang.github.io/tags/index.html
 https://hehehuang.github.io/categories/index.html
 https://hehehuang.github.io/links/index.html
@@ -13,7 +12,7 @@ https://hehehuang.github.io/books/index.html
 https://hehehuang.github.io/
 https://hehehuang.github.io/tags/Hadoop/
 https://hehehuang.github.io/tags/Mapreduce/
-https://hehehuang.github.io/tags/Data-Stu/
+https://hehehuang.github.io/tags/Data-Structure/
 https://hehehuang.github.io/tags/Algorithm/
 https://hehehuang.github.io/categories/Big-Data/
 https://hehehuang.github.io/categories/Python/

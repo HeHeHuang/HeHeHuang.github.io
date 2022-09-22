@@ -6,7 +6,7 @@
   <link href="https://hehehuang.github.io/atom.xml" rel="self"/>
   
   <link href="https://hehehuang.github.io/"/>
-  <updated>2022-09-22T08:36:43.587Z</updated>
+  <updated>2022-09-22T08:42:39.475Z</updated>
   <id>https://hehehuang.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://hehehuang.github.io/2022/09/22/Tree/"/>
     <id>https://hehehuang.github.io/2022/09/22/Tree/</id>
     <published>2022-09-22T08:36:43.586Z</published>
-    <updated>2022-09-22T08:36:43.587Z</updated>
+    <updated>2022-09-22T08:42:39.475Z</updated>
     
     <content type="html"><![CDATA[<ul><li><p>Tree is the basic data Structure</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">def</span> <span class="title function_">searchTree</span>():</span><br><span class="line">  </span><br></pre></td></tr></table></figure></li></ul>]]></content>
     
@@ -38,16 +38,18 @@
     <category term="Python" scheme="https://hehehuang.github.io/categories/Python/"/>
     
     
-    <category term="Data Stu" scheme="https://hehehuang.github.io/tags/Data-Stu/"/>
+    <category term="Data Structure" scheme="https://hehehuang.github.io/tags/Data-Structure/"/>
+    
+    <category term="Algorithm" scheme="https://hehehuang.github.io/tags/Algorithm/"/>
     
   </entry>
   
   <entry>
-    <title>sorting</title>
+    <title>Sorting</title>
     <link href="https://hehehuang.github.io/2022/09/22/sorting/"/>
     <id>https://hehehuang.github.io/2022/09/22/sorting/</id>
     <published>2022-09-22T08:34:21.026Z</published>
-    <updated>2022-09-22T08:35:05.554Z</updated>
+    <updated>2022-09-22T08:42:36.580Z</updated>
     
     <content type="html"><![CDATA[<p>sorting is algorithm to sort list in order.</p><p>There are ten basic algorithm:</p>]]></content>
     
@@ -69,22 +71,28 @@
   </entry>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://hehehuang.github.io/2022/09/21/hello-world/"/>
-    <id>https://hehehuang.github.io/2022/09/21/hello-world/</id>
-    <published>2022-09-21T04:56:46.088Z</published>
-    <updated>2022-09-21T09:07:41.547Z</updated>
+    <title>Hadoop</title>
+    <link href="https://hehehuang.github.io/2022/09/20/Hadoop/"/>
+    <id>https://hehehuang.github.io/2022/09/20/Hadoop/</id>
+    <published>2022-09-19T17:45:57.203Z</published>
+    <updated>2022-09-22T08:45:23.267Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="What-is-Hadoop"><a href="#What-is-Hadoop" class="headerlink" title="What is Hadoop"></a>What is Hadoop</h1><p>Hadoop &#x3D; HDFS + MapReduce </p><h3 id="Why-need-Hadoop"><a href="#Why-need-Hadoop" class="headerlink" title="Why need Hadoop?"></a>Why need Hadoop?</h3><p>because the cpu, distrbution computing. </p><p>what is changes</p><h3 id="History-of-Hadoop"><a href="#History-of-Hadoop" class="headerlink" title="History of Hadoop"></a>History of Hadoop</h3><h4 id="Hadoop-1-0"><a href="#Hadoop-1-0" class="headerlink" title="Hadoop 1.0"></a>Hadoop 1.0</h4><h4 id="Hadoop-2-0"><a href="#Hadoop-2-0" class="headerlink" title="Hadoop 2.0"></a>Hadoop 2.0</h4><h4 id="Hadoop-3-0"><a href="#Hadoop-3-0" class="headerlink" title="Hadoop 3.0"></a>Hadoop 3.0</h4><h3 id="HDFS"><a href="#HDFS" class="headerlink" title="HDFS"></a>HDFS</h3><h4 id="MapReduce"><a href="#MapReduce" class="headerlink" title="MapReduce"></a>MapReduce</h4><p>how data is processed in MapReduce</p><p>Map stage + Reduce</p><p><img src="https://www.todaysoftmag.com/images/articles/tsm33/large/a11.png" alt="TSM - Hadoop MapReduce deep diving and tuning"></p><p>shuffling in Partition</p><p>the number of partitioner is decide by the number of Reduce task</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;h1 id=&quot;What-is-Hadoop&quot;&gt;&lt;a href=&quot;#What-is-Hadoop&quot; class=&quot;headerlink&quot; title=&quot;What is Hadoop&quot;&gt;&lt;/a&gt;What is Hadoop&lt;/h1&gt;&lt;p&gt;Hadoop &amp;#x3D; HDFS + M</summary>
       
     
     
     
+    <category term="Big Data" scheme="https://hehehuang.github.io/categories/Big-Data/"/>
+    
+    
+    <category term="Hadoop" scheme="https://hehehuang.github.io/tags/Hadoop/"/>
+    
+    <category term="Mapreduce" scheme="https://hehehuang.github.io/tags/Mapreduce/"/>
     
   </entry>
   
@@ -113,39 +121,14 @@
     <link href="https://hehehuang.github.io/2022/09/20/PySpark/"/>
     <id>https://hehehuang.github.io/2022/09/20/PySpark/</id>
     <published>2022-09-19T17:45:57.203Z</published>
-    <updated>2022-09-22T08:38:39.613Z</updated>
+    <updated>2022-09-22T12:18:56.349Z</updated>
     
-    <content type="html"><![CDATA[<hr><h1 id="What-is-Spark"><a href="#What-is-Spark" class="headerlink" title="What is Spark?"></a>What is Spark?</h1><p>computing framework, </p><h2 id="why-need-Spark"><a href="#why-need-Spark" class="headerlink" title="why need Spark?"></a>why need Spark?</h2><p>using to replace mapreduce</p><h2 id="How-Spark-Process"><a href="#How-Spark-Process" class="headerlink" title="How Spark Process?"></a>How Spark Process?</h2><h3 id="Spark-Core"><a href="#Spark-Core" class="headerlink" title="Spark Core"></a>Spark Core</h3><h3 id="Spark-Sql"><a href="#Spark-Sql" class="headerlink" title="Spark Sql"></a>Spark Sql</h3><h3 id="Spark-streaming"><a href="#Spark-streaming" class="headerlink" title="Spark streaming"></a>Spark streaming</h3><h3 id="Spark-ML"><a href="#Spark-ML" class="headerlink" title="Spark ML"></a>Spark ML</h3>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;hr&gt;
-&lt;h1 id=&quot;What-is-Spark&quot;&gt;&lt;a href=&quot;#What-is-Spark&quot; class=&quot;headerlink&quot; title=&quot;What is Spark?&quot;&gt;&lt;/a&gt;What is Spark?&lt;/h1&gt;&lt;p&gt;computing framework</summary>
-      
-    
-    
-    
-    <category term="Big Data" scheme="https://hehehuang.github.io/categories/Big-Data/"/>
-    
-    
-    <category term="Hadoop" scheme="https://hehehuang.github.io/tags/Hadoop/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hadoop</title>
-    <link href="https://hehehuang.github.io/2022/09/20/Hadoop/"/>
-    <id>https://hehehuang.github.io/2022/09/20/Hadoop/</id>
-    <published>2022-09-19T17:45:57.203Z</published>
-    <updated>2022-09-22T08:33:48.452Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="What-is-Hadoop"><a href="#What-is-Hadoop" class="headerlink" title="What is Hadoop"></a>What is Hadoop</h1><p>Hadoop &#x3D; HDFS + MapReduce </p><h3 id="Why-need-Hadoop"><a href="#Why-need-Hadoop" class="headerlink" title="Why need Hadoop?"></a>Why need Hadoop?</h3><p>because the cpu, distrbution computing. </p><p>what is changes</p><h3 id="History-of-Hadoop"><a href="#History-of-Hadoop" class="headerlink" title="History of Hadoop"></a>History of Hadoop</h3><h4 id="Hadoop-1-0"><a href="#Hadoop-1-0" class="headerlink" title="Hadoop 1.0"></a>Hadoop 1.0</h4><h4 id="Hadoop-2-0"><a href="#Hadoop-2-0" class="headerlink" title="Hadoop 2.0"></a>Hadoop 2.0</h4><h4 id="Hadoop-3-0"><a href="#Hadoop-3-0" class="headerlink" title="Hadoop 3.0"></a>Hadoop 3.0</h4><h3 id="HDFS"><a href="#HDFS" class="headerlink" title="HDFS"></a>HDFS</h3><h4 id="MapReduce"><a href="#MapReduce" class="headerlink" title="MapReduce"></a>MapReduce</h4><p>how data is processed in MapReduce</p><p>Map stage + Reduce</p><p><img src="https://www.todaysoftmag.com/images/articles/tsm33/large/a11.png" alt="TSM - Hadoop MapReduce deep diving and tuning"></p><p>shuffling in Partition</p><p>the number of partitioner is decide by the number of Reduce task</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="What-is-Spark"><a href="#What-is-Spark" class="headerlink" title="What is Spark?"></a>What is Spark?</h1><p>Spark is a data processing engine for big data sets. </p><h2 id="why-need-Spark"><a href="#why-need-Spark" class="headerlink" title="why need Spark?"></a>why need Spark?</h2><p><strong>Advantages of spark</strong></p><ol><li><p>handle many case: </p><p>SparkSQL(dataframe) for data analysis</p><p>Spark streaming for real-time analysis</p><p>Spark Ml for machine learning</p></li><li><p>work with many source</p><p>Standalone, Hadoop, K8s,AWS</p></li><li><p>better than Mapreduce, enhancement to mapreduce (in real-time processing)</p></li></ol><p><strong>Why Spark is better than Mapreduce in terms of efficiency</strong></p><p><strong>Mapreduce</strong> takes input from the HDFS, each map task process it , keeps in memory ,if exceed the default 100MB(io.sort.mb), then it split to disk.reduce task take data from disk and continue to process it.</p><p><strong>Spark</strong> uses random access memory (RAM) to cache and process data instead of a file system.</p><p>Spark creates a Directed Acyclic Graph (DAG) to schedule tasks and the orchestration of nodes across the Hadoop cluster.</p><h2 id="How-Spark-work-in-cluster"><a href="#How-Spark-work-in-cluster" class="headerlink" title="How Spark work in cluster?"></a>How Spark work in cluster?</h2><p>HDFS,Yarn,Spark</p><p>HDFS: Name node, Data Node</p><p>Yarn: Resource Manager, Node Manager</p><p>Spark: Driver, Worker</p><p>when spark start to work, it need HDFS to provide the data and Yarn to provide computing resource.</p><p><img src="https://learn.microsoft.com/en-us/azure/hdinsight/spark/media/apache-spark-streaming-high-availability/hdi-yarn-architecture.png" alt="hdi-yarn-architecture"></p><h3 id="Spark-RDD"><a href="#Spark-RDD" class="headerlink" title="Spark RDD"></a>Spark RDD</h3><p>features:</p><ol><li><p>partitions</p></li><li><p>computing each split</p></li><li><p>dependencies on each RDDs (lineage)</p></li><li><p>Key-value RDDs have Partioner</p></li><li><p>sent computing to data</p></li></ol><h3 id="Spark-Core"><a href="#Spark-Core" class="headerlink" title="Spark Core"></a>Spark Core</h3><h3 id="Spark-Sql"><a href="#Spark-Sql" class="headerlink" title="Spark Sql"></a>Spark Sql</h3><h3 id="Spark-Streaming"><a href="#Spark-Streaming" class="headerlink" title="Spark Streaming"></a>Spark Streaming</h3><h3 id=""><a href="#" class="headerlink" title=""></a><img src="https://learn.microsoft.com/en-us/azure/hdinsight/spark/media/apache-spark-streaming-high-availability/apache-spark-streaming.png" alt="apache-spark-streaming"></h3><h3 id="Spark-ML"><a href="#Spark-ML" class="headerlink" title="Spark ML"></a>Spark ML</h3><h2 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h2><p><a href="https://www.ibm.com/cloud/blog/hadoop-vs-spark">https://www.ibm.com/cloud/blog/hadoop-vs-spark</a></p><p><a href="https://learn.microsoft.com/en-us/azure/hdinsight/spark/apache-spark-streaming-high-availability">https://learn.microsoft.com/en-us/azure/hdinsight/spark/apache-spark-streaming-high-availability</a></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;h1 id=&quot;What-is-Hadoop&quot;&gt;&lt;a href=&quot;#What-is-Hadoop&quot; class=&quot;headerlink&quot; title=&quot;What is Hadoop&quot;&gt;&lt;/a&gt;What is Hadoop&lt;/h1&gt;&lt;p&gt;Hadoop &amp;#x3D; HDFS + M</summary>
+    <summary type="html">&lt;h1 id=&quot;What-is-Spark&quot;&gt;&lt;a href=&quot;#What-is-Spark&quot; class=&quot;headerlink&quot; title=&quot;What is Spark?&quot;&gt;&lt;/a&gt;What is Spark?&lt;/h1&gt;&lt;p&gt;Spark is a data processi</summary>
       
     
     
@@ -154,8 +137,6 @@
     
     
     <category term="Hadoop" scheme="https://hehehuang.github.io/tags/Hadoop/"/>
-    
-    <category term="Mapreduce" scheme="https://hehehuang.github.io/tags/Mapreduce/"/>
     
   </entry>
   
