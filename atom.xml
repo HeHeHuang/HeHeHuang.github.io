@@ -6,7 +6,7 @@
   <link href="https://hehehuang.github.io/atom.xml" rel="self"/>
   
   <link href="https://hehehuang.github.io/"/>
-  <updated>2022-09-21T09:07:41.547Z</updated>
+  <updated>2022-09-22T08:36:43.587Z</updated>
   <id>https://hehehuang.github.io/</id>
   
   <author>
@@ -15,6 +15,58 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Tree</title>
+    <link href="https://hehehuang.github.io/2022/09/22/Tree/"/>
+    <id>https://hehehuang.github.io/2022/09/22/Tree/</id>
+    <published>2022-09-22T08:36:43.586Z</published>
+    <updated>2022-09-22T08:36:43.587Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li><p>Tree is the basic data Structure</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">def</span> <span class="title function_">searchTree</span>():</span><br><span class="line">  </span><br></pre></td></tr></table></figure></li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Tree is the basic data Structure&lt;/p&gt;
+&lt;figure class=&quot;highlight python&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/s</summary>
+      
+    
+    
+    
+    <category term="Python" scheme="https://hehehuang.github.io/categories/Python/"/>
+    
+    
+    <category term="Data Stu" scheme="https://hehehuang.github.io/tags/Data-Stu/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>sorting</title>
+    <link href="https://hehehuang.github.io/2022/09/22/sorting/"/>
+    <id>https://hehehuang.github.io/2022/09/22/sorting/</id>
+    <published>2022-09-22T08:34:21.026Z</published>
+    <updated>2022-09-22T08:35:05.554Z</updated>
+    
+    <content type="html"><![CDATA[<p>sorting is algorithm to sort list in order.</p><p>There are ten basic algorithm:</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;sorting is algorithm to sort list in order.&lt;/p&gt;
+&lt;p&gt;There are ten basic algorithm:&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="Python" scheme="https://hehehuang.github.io/categories/Python/"/>
+    
+    
+    <category term="Algorithm" scheme="https://hehehuang.github.io/tags/Algorithm/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
@@ -41,7 +93,7 @@
     <link href="https://hehehuang.github.io/2022/09/20/AWS/"/>
     <id>https://hehehuang.github.io/2022/09/20/AWS/</id>
     <published>2022-09-19T17:45:57.203Z</published>
-    <updated>2022-09-21T09:53:28.181Z</updated>
+    <updated>2022-09-22T08:27:24.236Z</updated>
     
     <content type="html"><![CDATA[<h1 id="What-is-AWS"><a href="#What-is-AWS" class="headerlink" title="What is AWS?"></a>What is AWS?</h1><h3 id=""><a href="#" class="headerlink" title=""></a></h3><h2 id="Big-data-framework"><a href="#Big-data-framework" class="headerlink" title="Big data framework"></a>Big data framework</h2><h2 id="what-is-componence-of-AWS-with-Big-Data-ecosystem"><a href="#what-is-componence-of-AWS-with-Big-Data-ecosystem" class="headerlink" title="what is componence of AWS with Big Data ecosystem"></a>what is componence of AWS with Big Data ecosystem</h2>]]></content>
     
@@ -61,9 +113,9 @@
     <link href="https://hehehuang.github.io/2022/09/20/Hadoop/"/>
     <id>https://hehehuang.github.io/2022/09/20/Hadoop/</id>
     <published>2022-09-19T17:45:57.203Z</published>
-    <updated>2022-09-21T09:08:14.299Z</updated>
+    <updated>2022-09-22T08:33:48.452Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="What-is-Hadoop"><a href="#What-is-Hadoop" class="headerlink" title="What is Hadoop"></a>What is Hadoop</h1><p>Hadoop &#x3D; HDFS + MapReduce </p><h3 id="why-need-Hadoop"><a href="#why-need-Hadoop" class="headerlink" title="why need Hadoop?"></a>why need Hadoop?</h3><p>because the cpu, distrbution computing. </p><p>what is changes</p><h2 id="Hadoop-1-0"><a href="#Hadoop-1-0" class="headerlink" title="Hadoop 1.0"></a>Hadoop 1.0</h2><h2 id="Hadoop-2-0"><a href="#Hadoop-2-0" class="headerlink" title="Hadoop 2.0"></a>Hadoop 2.0</h2><h2 id="Hadoop-3-0"><a href="#Hadoop-3-0" class="headerlink" title="Hadoop 3.0"></a>Hadoop 3.0</h2>]]></content>
+    <content type="html"><![CDATA[<h1 id="What-is-Hadoop"><a href="#What-is-Hadoop" class="headerlink" title="What is Hadoop"></a>What is Hadoop</h1><p>Hadoop &#x3D; HDFS + MapReduce </p><h3 id="Why-need-Hadoop"><a href="#Why-need-Hadoop" class="headerlink" title="Why need Hadoop?"></a>Why need Hadoop?</h3><p>because the cpu, distrbution computing. </p><p>what is changes</p><h3 id="History-of-Hadoop"><a href="#History-of-Hadoop" class="headerlink" title="History of Hadoop"></a>History of Hadoop</h3><h4 id="Hadoop-1-0"><a href="#Hadoop-1-0" class="headerlink" title="Hadoop 1.0"></a>Hadoop 1.0</h4><h4 id="Hadoop-2-0"><a href="#Hadoop-2-0" class="headerlink" title="Hadoop 2.0"></a>Hadoop 2.0</h4><h4 id="Hadoop-3-0"><a href="#Hadoop-3-0" class="headerlink" title="Hadoop 3.0"></a>Hadoop 3.0</h4><h3 id="HDFS"><a href="#HDFS" class="headerlink" title="HDFS"></a>HDFS</h3><h4 id="MapReduce"><a href="#MapReduce" class="headerlink" title="MapReduce"></a>MapReduce</h4><p>how data is processed in MapReduce</p><p>Map stage + Reduce</p><p><img src="https://www.todaysoftmag.com/images/articles/tsm33/large/a11.png" alt="TSM - Hadoop MapReduce deep diving and tuning"></p><p>shuffling in Partition</p><p>the number of partitioner is decide by the number of Reduce task</p>]]></content>
     
     
       
@@ -79,6 +131,31 @@
     <category term="Hadoop" scheme="https://hehehuang.github.io/tags/Hadoop/"/>
     
     <category term="Mapreduce" scheme="https://hehehuang.github.io/tags/Mapreduce/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>PySpark</title>
+    <link href="https://hehehuang.github.io/2022/09/20/PySpark/"/>
+    <id>https://hehehuang.github.io/2022/09/20/PySpark/</id>
+    <published>2022-09-19T17:45:57.203Z</published>
+    <updated>2022-09-22T08:38:39.613Z</updated>
+    
+    <content type="html"><![CDATA[<hr><h1 id="What-is-Spark"><a href="#What-is-Spark" class="headerlink" title="What is Spark?"></a>What is Spark?</h1><p>computing framework, </p><h2 id="why-need-Spark"><a href="#why-need-Spark" class="headerlink" title="why need Spark?"></a>why need Spark?</h2><p>using to replace mapreduce</p><h2 id="How-Spark-Process"><a href="#How-Spark-Process" class="headerlink" title="How Spark Process?"></a>How Spark Process?</h2><h3 id="Spark-Core"><a href="#Spark-Core" class="headerlink" title="Spark Core"></a>Spark Core</h3><h3 id="Spark-Sql"><a href="#Spark-Sql" class="headerlink" title="Spark Sql"></a>Spark Sql</h3><h3 id="Spark-streaming"><a href="#Spark-streaming" class="headerlink" title="Spark streaming"></a>Spark streaming</h3><h3 id="Spark-ML"><a href="#Spark-ML" class="headerlink" title="Spark ML"></a>Spark ML</h3>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;hr&gt;
+&lt;h1 id=&quot;What-is-Spark&quot;&gt;&lt;a href=&quot;#What-is-Spark&quot; class=&quot;headerlink&quot; title=&quot;What is Spark?&quot;&gt;&lt;/a&gt;What is Spark?&lt;/h1&gt;&lt;p&gt;computing framework</summary>
+      
+    
+    
+    
+    <category term="Big Data" scheme="https://hehehuang.github.io/categories/Big-Data/"/>
+    
+    
+    <category term="Hadoop" scheme="https://hehehuang.github.io/tags/Hadoop/"/>
     
   </entry>
   
