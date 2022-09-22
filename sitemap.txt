@@ -8,8 +8,8 @@ https://hehehuang.github.io/tags/index.html
 https://hehehuang.github.io/categories/index.html
 https://hehehuang.github.io/links/index.html
 https://hehehuang.github.io/repository/index.html
-https://hehehuang.github.io/books/index.html
 https://hehehuang.github.io/about/index.html
+https://hehehuang.github.io/books/index.html
 https://hehehuang.github.io/
 https://hehehuang.github.io/tags/Hadoop/
 https://hehehuang.github.io/tags/Mapreduce/

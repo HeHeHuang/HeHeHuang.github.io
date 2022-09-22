@@ -109,6 +109,31 @@
   </entry>
   
   <entry>
+    <title>PySpark</title>
+    <link href="https://hehehuang.github.io/2022/09/20/PySpark/"/>
+    <id>https://hehehuang.github.io/2022/09/20/PySpark/</id>
+    <published>2022-09-19T17:45:57.203Z</published>
+    <updated>2022-09-22T08:38:39.613Z</updated>
+    
+    <content type="html"><![CDATA[<hr><h1 id="What-is-Spark"><a href="#What-is-Spark" class="headerlink" title="What is Spark?"></a>What is Spark?</h1><p>computing framework, </p><h2 id="why-need-Spark"><a href="#why-need-Spark" class="headerlink" title="why need Spark?"></a>why need Spark?</h2><p>using to replace mapreduce</p><h2 id="How-Spark-Process"><a href="#How-Spark-Process" class="headerlink" title="How Spark Process?"></a>How Spark Process?</h2><h3 id="Spark-Core"><a href="#Spark-Core" class="headerlink" title="Spark Core"></a>Spark Core</h3><h3 id="Spark-Sql"><a href="#Spark-Sql" class="headerlink" title="Spark Sql"></a>Spark Sql</h3><h3 id="Spark-streaming"><a href="#Spark-streaming" class="headerlink" title="Spark streaming"></a>Spark streaming</h3><h3 id="Spark-ML"><a href="#Spark-ML" class="headerlink" title="Spark ML"></a>Spark ML</h3>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;hr&gt;
+&lt;h1 id=&quot;What-is-Spark&quot;&gt;&lt;a href=&quot;#What-is-Spark&quot; class=&quot;headerlink&quot; title=&quot;What is Spark?&quot;&gt;&lt;/a&gt;What is Spark?&lt;/h1&gt;&lt;p&gt;computing framework</summary>
+      
+    
+    
+    
+    <category term="Big Data" scheme="https://hehehuang.github.io/categories/Big-Data/"/>
+    
+    
+    <category term="Hadoop" scheme="https://hehehuang.github.io/tags/Hadoop/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hadoop</title>
     <link href="https://hehehuang.github.io/2022/09/20/Hadoop/"/>
     <id>https://hehehuang.github.io/2022/09/20/Hadoop/</id>
@@ -131,31 +156,6 @@
     <category term="Hadoop" scheme="https://hehehuang.github.io/tags/Hadoop/"/>
     
     <category term="Mapreduce" scheme="https://hehehuang.github.io/tags/Mapreduce/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>PySpark</title>
-    <link href="https://hehehuang.github.io/2022/09/20/PySpark/"/>
-    <id>https://hehehuang.github.io/2022/09/20/PySpark/</id>
-    <published>2022-09-19T17:45:57.203Z</published>
-    <updated>2022-09-22T08:38:39.613Z</updated>
-    
-    <content type="html"><![CDATA[<hr><h1 id="What-is-Spark"><a href="#What-is-Spark" class="headerlink" title="What is Spark?"></a>What is Spark?</h1><p>computing framework, </p><h2 id="why-need-Spark"><a href="#why-need-Spark" class="headerlink" title="why need Spark?"></a>why need Spark?</h2><p>using to replace mapreduce</p><h2 id="How-Spark-Process"><a href="#How-Spark-Process" class="headerlink" title="How Spark Process?"></a>How Spark Process?</h2><h3 id="Spark-Core"><a href="#Spark-Core" class="headerlink" title="Spark Core"></a>Spark Core</h3><h3 id="Spark-Sql"><a href="#Spark-Sql" class="headerlink" title="Spark Sql"></a>Spark Sql</h3><h3 id="Spark-streaming"><a href="#Spark-streaming" class="headerlink" title="Spark streaming"></a>Spark streaming</h3><h3 id="Spark-ML"><a href="#Spark-ML" class="headerlink" title="Spark ML"></a>Spark ML</h3>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;hr&gt;
-&lt;h1 id=&quot;What-is-Spark&quot;&gt;&lt;a href=&quot;#What-is-Spark&quot; class=&quot;headerlink&quot; title=&quot;What is Spark?&quot;&gt;&lt;/a&gt;What is Spark?&lt;/h1&gt;&lt;p&gt;computing framework</summary>
-      
-    
-    
-    
-    <category term="Big Data" scheme="https://hehehuang.github.io/categories/Big-Data/"/>
-    
-    
-    <category term="Hadoop" scheme="https://hehehuang.github.io/tags/Hadoop/"/>
     
   </entry>
   
