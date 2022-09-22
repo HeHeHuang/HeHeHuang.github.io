@@ -38,9 +38,9 @@
     <category term="Python" scheme="https://hehehuang.github.io/categories/Python/"/>
     
     
-    <category term="Data Structure" scheme="https://hehehuang.github.io/tags/Data-Structure/"/>
-    
     <category term="Algorithm" scheme="https://hehehuang.github.io/tags/Algorithm/"/>
+    
+    <category term="Data Structure" scheme="https://hehehuang.github.io/tags/Data-Structure/"/>
     
   </entry>
   
@@ -71,6 +71,26 @@
   </entry>
   
   <entry>
+    <title>AWS</title>
+    <link href="https://hehehuang.github.io/2022/09/20/AWS/"/>
+    <id>https://hehehuang.github.io/2022/09/20/AWS/</id>
+    <published>2022-09-19T17:45:57.203Z</published>
+    <updated>2022-09-22T08:27:24.236Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="What-is-AWS"><a href="#What-is-AWS" class="headerlink" title="What is AWS?"></a>What is AWS?</h1><h3 id=""><a href="#" class="headerlink" title=""></a></h3><h2 id="Big-data-framework"><a href="#Big-data-framework" class="headerlink" title="Big data framework"></a>Big data framework</h2><h2 id="what-is-componence-of-AWS-with-Big-Data-ecosystem"><a href="#what-is-componence-of-AWS-with-Big-Data-ecosystem" class="headerlink" title="what is componence of AWS with Big Data ecosystem"></a>what is componence of AWS with Big Data ecosystem</h2>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;What-is-AWS&quot;&gt;&lt;a href=&quot;#What-is-AWS&quot; class=&quot;headerlink&quot; title=&quot;What is AWS?&quot;&gt;&lt;/a&gt;What is AWS?&lt;/h1&gt;&lt;h3 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;header</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>Hadoop</title>
     <link href="https://hehehuang.github.io/2022/09/20/Hadoop/"/>
     <id>https://hehehuang.github.io/2022/09/20/Hadoop/</id>
@@ -93,26 +113,6 @@
     <category term="Hadoop" scheme="https://hehehuang.github.io/tags/Hadoop/"/>
     
     <category term="Mapreduce" scheme="https://hehehuang.github.io/tags/Mapreduce/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>AWS</title>
-    <link href="https://hehehuang.github.io/2022/09/20/AWS/"/>
-    <id>https://hehehuang.github.io/2022/09/20/AWS/</id>
-    <published>2022-09-19T17:45:57.203Z</published>
-    <updated>2022-09-22T08:27:24.236Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="What-is-AWS"><a href="#What-is-AWS" class="headerlink" title="What is AWS?"></a>What is AWS?</h1><h3 id=""><a href="#" class="headerlink" title=""></a></h3><h2 id="Big-data-framework"><a href="#Big-data-framework" class="headerlink" title="Big data framework"></a>Big data framework</h2><h2 id="what-is-componence-of-AWS-with-Big-Data-ecosystem"><a href="#what-is-componence-of-AWS-with-Big-Data-ecosystem" class="headerlink" title="what is componence of AWS with Big Data ecosystem"></a>what is componence of AWS with Big Data ecosystem</h2>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;What-is-AWS&quot;&gt;&lt;a href=&quot;#What-is-AWS&quot; class=&quot;headerlink&quot; title=&quot;What is AWS?&quot;&gt;&lt;/a&gt;What is AWS?&lt;/h1&gt;&lt;h3 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;header</summary>
-      
-    
-    
-    
     
   </entry>
   

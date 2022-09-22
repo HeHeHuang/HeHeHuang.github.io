@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://hehehuang.github.io/categories/index.html</loc>
+    <loc>https://hehehuang.github.io/links/index.html</loc>
     
     <lastmod>2022-09-21</lastmod>
     
@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://hehehuang.github.io/links/index.html</loc>
+    <loc>https://hehehuang.github.io/categories/index.html</loc>
     
     <lastmod>2022-09-21</lastmod>
     
@@ -124,14 +124,14 @@
   </url>
   
   <url>
-    <loc>https://hehehuang.github.io/tags/Data-Structure/</loc>
+    <loc>https://hehehuang.github.io/tags/Algorithm/</loc>
     <lastmod>2022-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://hehehuang.github.io/tags/Algorithm/</loc>
+    <loc>https://hehehuang.github.io/tags/Data-Structure/</loc>
     <lastmod>2022-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
