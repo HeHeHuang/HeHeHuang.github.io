@@ -6,7 +6,7 @@
   <link href="https://hehehuang.github.io/atom.xml" rel="self"/>
   
   <link href="https://hehehuang.github.io/"/>
-  <updated>2022-09-22T08:42:39.475Z</updated>
+  <updated>2022-09-23T10:25:22.501Z</updated>
   <id>https://hehehuang.github.io/</id>
   
   <author>
@@ -15,6 +15,144 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Data Analysis with Pyspark</title>
+    <link href="https://hehehuang.github.io/2022/09/23/Data-Analysis-with-Pyspark/"/>
+    <id>https://hehehuang.github.io/2022/09/23/Data-Analysis-with-Pyspark/</id>
+    <published>2022-09-23T10:25:22.501Z</published>
+    <updated>2022-09-23T10:25:22.501Z</updated>
+    
+    
+    
+    
+    <category term="Python" scheme="https://hehehuang.github.io/categories/Python/"/>
+    
+    <category term="Big Data" scheme="https://hehehuang.github.io/categories/Python/Big-Data/"/>
+    
+    
+    <category term="PySpark" scheme="https://hehehuang.github.io/tags/PySpark/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Data Analysis with SQL</title>
+    <link href="https://hehehuang.github.io/2022/09/23/Data-Analysis-with-SQL/"/>
+    <id>https://hehehuang.github.io/2022/09/23/Data-Analysis-with-SQL/</id>
+    <published>2022-09-23T10:24:38.833Z</published>
+    <updated>2022-09-23T10:24:38.833Z</updated>
+    
+    
+    
+    
+    <category term="Python" scheme="https://hehehuang.github.io/categories/Python/"/>
+    
+    <category term="SQL" scheme="https://hehehuang.github.io/categories/Python/SQL/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Data Analysis with Python</title>
+    <link href="https://hehehuang.github.io/2022/09/23/Data-Analysis-with-Python/"/>
+    <id>https://hehehuang.github.io/2022/09/23/Data-Analysis-with-Python/</id>
+    <published>2022-09-23T10:24:12.280Z</published>
+    <updated>2022-09-23T10:24:12.280Z</updated>
+    
+    
+    
+    
+    <category term="Python" scheme="https://hehehuang.github.io/categories/Python/"/>
+    
+    <category term="Data Analysis" scheme="https://hehehuang.github.io/categories/Python/Data-Analysis/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Python OOP</title>
+    <link href="https://hehehuang.github.io/2022/09/23/Python%20OOP/"/>
+    <id>https://hehehuang.github.io/2022/09/23/Python%20OOP/</id>
+    <published>2022-09-23T10:22:54.991Z</published>
+    <updated>2022-09-23T10:23:04.903Z</updated>
+    
+    
+    
+    
+    <category term="Python" scheme="https://hehehuang.github.io/categories/Python/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Python Basic</title>
+    <link href="https://hehehuang.github.io/2022/09/23/Python%20Basic/"/>
+    <id>https://hehehuang.github.io/2022/09/23/Python%20Basic/</id>
+    <published>2022-09-23T10:21:30.629Z</published>
+    <updated>2022-09-23T10:22:33.875Z</updated>
+    
+    
+    
+    
+    <category term="Python" scheme="https://hehehuang.github.io/categories/Python/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Array &amp; Linked List</title>
+    <link href="https://hehehuang.github.io/2022/09/23/Array%20&amp;%20Linked%20List/"/>
+    <id>https://hehehuang.github.io/2022/09/23/Array%20&amp;%20Linked%20List/</id>
+    <published>2022-09-23T10:20:09.606Z</published>
+    <updated>2022-09-23T10:20:32.597Z</updated>
+    
+    
+    
+    
+    <category term="Python" scheme="https://hehehuang.github.io/categories/Python/"/>
+    
+    
+    <category term="Data Structure" scheme="https://hehehuang.github.io/tags/Data-Structure/"/>
+    
+    <category term="Algorithm" scheme="https://hehehuang.github.io/tags/Algorithm/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Data Engineer</title>
+    <link href="https://hehehuang.github.io/2022/09/23/Data%20Engineer/"/>
+    <id>https://hehehuang.github.io/2022/09/23/Data%20Engineer/</id>
+    <published>2022-09-23T10:12:25.135Z</published>
+    <updated>2022-09-23T10:16:35.833Z</updated>
+    
+    <content type="html"><![CDATA[<p>Data Engineer</p><p>What is Data Engineer?</p><p>What is main duly for data engineer?</p><p>how data engineer work with AWS?</p><p>what can i learn for data engineer?</p><ol><li>Big Data: data pipeline,  </li><li>Cloud service</li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Data Engineer&lt;/p&gt;
+&lt;p&gt;What is Data Engineer?&lt;/p&gt;
+&lt;p&gt;What is main duly for data engineer?&lt;/p&gt;
+&lt;p&gt;how data engineer work with AWS?&lt;/p&gt;
+&lt;p&gt;wh</summary>
+      
+    
+    
+    
+    <category term="Big Data" scheme="https://hehehuang.github.io/categories/Big-Data/"/>
+    
+    <category term="Cloud Service" scheme="https://hehehuang.github.io/categories/Big-Data/Cloud-Service/"/>
+    
+    
+    <category term="Data Warehouse" scheme="https://hehehuang.github.io/tags/Data-Warehouse/"/>
+    
+    <category term="NoSQL" scheme="https://hehehuang.github.io/tags/NoSQL/"/>
+    
+    <category term="Data Pipeline" scheme="https://hehehuang.github.io/tags/Data-Pipeline/"/>
+    
+    <category term="AWS" scheme="https://hehehuang.github.io/tags/AWS/"/>
+    
+  </entry>
   
   <entry>
     <title>Tree</title>
@@ -38,16 +176,16 @@
     <category term="Python" scheme="https://hehehuang.github.io/categories/Python/"/>
     
     
-    <category term="Algorithm" scheme="https://hehehuang.github.io/tags/Algorithm/"/>
-    
     <category term="Data Structure" scheme="https://hehehuang.github.io/tags/Data-Structure/"/>
+    
+    <category term="Algorithm" scheme="https://hehehuang.github.io/tags/Algorithm/"/>
     
   </entry>
   
   <entry>
     <title>Sorting</title>
-    <link href="https://hehehuang.github.io/2022/09/22/sorting/"/>
-    <id>https://hehehuang.github.io/2022/09/22/sorting/</id>
+    <link href="https://hehehuang.github.io/2022/09/22/Sorting/"/>
+    <id>https://hehehuang.github.io/2022/09/22/Sorting/</id>
     <published>2022-09-22T08:34:21.026Z</published>
     <updated>2022-09-22T08:42:36.580Z</updated>
     
@@ -121,9 +259,9 @@
     <link href="https://hehehuang.github.io/2022/09/20/PySpark/"/>
     <id>https://hehehuang.github.io/2022/09/20/PySpark/</id>
     <published>2022-09-19T17:45:57.203Z</published>
-    <updated>2022-09-22T12:18:56.349Z</updated>
+    <updated>2022-09-22T12:46:25.000Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="What-is-Spark"><a href="#What-is-Spark" class="headerlink" title="What is Spark?"></a>What is Spark?</h1><p>Spark is a data processing engine for big data sets. </p><h2 id="why-need-Spark"><a href="#why-need-Spark" class="headerlink" title="why need Spark?"></a>why need Spark?</h2><p><strong>Advantages of spark</strong></p><ol><li><p>handle many case: </p><p>SparkSQL(dataframe) for data analysis</p><p>Spark streaming for real-time analysis</p><p>Spark Ml for machine learning</p></li><li><p>work with many source</p><p>Standalone, Hadoop, K8s,AWS</p></li><li><p>better than Mapreduce, enhancement to mapreduce (in real-time processing)</p></li></ol><p><strong>Why Spark is better than Mapreduce in terms of efficiency</strong></p><p><strong>Mapreduce</strong> takes input from the HDFS, each map task process it , keeps in memory ,if exceed the default 100MB(io.sort.mb), then it split to disk.reduce task take data from disk and continue to process it.</p><p><strong>Spark</strong> uses random access memory (RAM) to cache and process data instead of a file system.</p><p>Spark creates a Directed Acyclic Graph (DAG) to schedule tasks and the orchestration of nodes across the Hadoop cluster.</p><h2 id="How-Spark-work-in-cluster"><a href="#How-Spark-work-in-cluster" class="headerlink" title="How Spark work in cluster?"></a>How Spark work in cluster?</h2><p>HDFS,Yarn,Spark</p><p>HDFS: Name node, Data Node</p><p>Yarn: Resource Manager, Node Manager</p><p>Spark: Driver, Worker</p><p>when spark start to work, it need HDFS to provide the data and Yarn to provide computing resource.</p><p><img src="https://learn.microsoft.com/en-us/azure/hdinsight/spark/media/apache-spark-streaming-high-availability/hdi-yarn-architecture.png" alt="hdi-yarn-architecture"></p><h3 id="Spark-RDD"><a href="#Spark-RDD" class="headerlink" title="Spark RDD"></a>Spark RDD</h3><p>features:</p><ol><li><p>partitions</p></li><li><p>computing each split</p></li><li><p>dependencies on each RDDs (lineage)</p></li><li><p>Key-value RDDs have Partioner</p></li><li><p>sent computing to data</p></li></ol><h3 id="Spark-Core"><a href="#Spark-Core" class="headerlink" title="Spark Core"></a>Spark Core</h3><h3 id="Spark-Sql"><a href="#Spark-Sql" class="headerlink" title="Spark Sql"></a>Spark Sql</h3><h3 id="Spark-Streaming"><a href="#Spark-Streaming" class="headerlink" title="Spark Streaming"></a>Spark Streaming</h3><h3 id=""><a href="#" class="headerlink" title=""></a><img src="https://learn.microsoft.com/en-us/azure/hdinsight/spark/media/apache-spark-streaming-high-availability/apache-spark-streaming.png" alt="apache-spark-streaming"></h3><h3 id="Spark-ML"><a href="#Spark-ML" class="headerlink" title="Spark ML"></a>Spark ML</h3><h2 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h2><p><a href="https://www.ibm.com/cloud/blog/hadoop-vs-spark">https://www.ibm.com/cloud/blog/hadoop-vs-spark</a></p><p><a href="https://learn.microsoft.com/en-us/azure/hdinsight/spark/apache-spark-streaming-high-availability">https://learn.microsoft.com/en-us/azure/hdinsight/spark/apache-spark-streaming-high-availability</a></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="What-is-Spark"><a href="#What-is-Spark" class="headerlink" title="What is Spark?"></a>What is Spark?</h1><p>Spark is a data processing engine for big data sets. </p><p>Pyspark is that Spark can be call by python language.</p><h2 id="why-need-Spark"><a href="#why-need-Spark" class="headerlink" title="why need Spark?"></a>why need Spark?</h2><p><strong>Advantages of spark</strong></p><ol><li><p>handle many case: </p><p>SparkSQL(dataframe) for data analysis</p><p>Spark streaming for real-time analysis</p><p>Spark Ml for machine learning</p></li><li><p>work with many source</p><p>Standalone, Hadoop, K8s,AWS</p></li><li><p>better than Mapreduce, enhancement to mapreduce (in real-time processing)</p></li></ol><p><strong>Why Spark is better than Mapreduce in terms of efficiency</strong></p><p><strong>Mapreduce</strong> takes input from the HDFS, each map task process it , keeps in memory ,if exceed the default 100MB(io.sort.mb), then it split to disk.reduce task take data from disk and continue to process it.</p><p><strong>Spark</strong> uses random access memory (RAM) to cache and process data instead of a file system.</p><p>Spark creates a Directed Acyclic Graph (DAG) to schedule tasks and the orchestration of nodes across the Hadoop cluster.</p><h2 id="How-Spark-work-in-cluster"><a href="#How-Spark-work-in-cluster" class="headerlink" title="How Spark work in cluster?"></a>How Spark work in cluster?</h2><p>HDFS,Yarn,Spark</p><p>HDFS: Name node, Data Node</p><p>Yarn: Resource Manager, Node Manager</p><p>Spark: Driver, Worker</p><p>when spark start to work, it need HDFS to provide the data and Yarn to provide computing resource.</p><p><img src="https://learn.microsoft.com/en-us/azure/hdinsight/spark/media/apache-spark-streaming-high-availability/hdi-yarn-architecture.png" alt="hdi-yarn-architecture"></p><h3 id="Spark-RDD"><a href="#Spark-RDD" class="headerlink" title="Spark RDD"></a>Spark RDD</h3><p>Features:</p><ol><li><p>partitions</p></li><li><p>computing each split</p></li><li><p>dependencies on each RDDs (lineage)</p></li><li><p>Key-value RDDs have Partioner</p></li><li><p>sent computing to data</p></li></ol><p>Two step in RDD:</p><p>Transform: transform one RDD to another RDD</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">from</span> pyspark <span class="keyword">import</span> SparkContext</span><br><span class="line"><span class="keyword">from</span> pyspark <span class="keyword">import</span> SparkConf</span><br><span class="line"></span><br><span class="line">conf = SparkConf()</span><br><span class="line">sc = SparkContext(conf=conf)</span><br><span class="line"></span><br><span class="line">rdd1 = sc.parallelize([<span class="number">1</span>,<span class="number">2</span>,<span class="number">3</span>,<span class="number">4</span>])</span><br><span class="line">rdd2 = rdd1.<span class="built_in">map</span>(<span class="keyword">lambda</span> x: x+<span class="number">1</span>)</span><br><span class="line"></span><br></pre></td></tr></table></figure><p>Action: take action for the RDD, normally, the output will be value</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">result = rdd2.collect()</span><br></pre></td></tr></table></figure><p>how RDD work? what is the process of RDD in Spark?</p><h3 id="Spark-Core"><a href="#Spark-Core" class="headerlink" title="Spark Core"></a>Spark Core</h3><h3 id="Spark-Sql"><a href="#Spark-Sql" class="headerlink" title="Spark Sql"></a>Spark Sql</h3><h3 id="Spark-Streaming"><a href="#Spark-Streaming" class="headerlink" title="Spark Streaming"></a>Spark Streaming</h3><h3 id=""><a href="#" class="headerlink" title=""></a><img src="https://learn.microsoft.com/en-us/azure/hdinsight/spark/media/apache-spark-streaming-high-availability/apache-spark-streaming.png" alt="apache-spark-streaming"></h3><h3 id="Spark-ML"><a href="#Spark-ML" class="headerlink" title="Spark ML"></a>Spark ML</h3><h2 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h2><p><a href="https://www.ibm.com/cloud/blog/hadoop-vs-spark">https://www.ibm.com/cloud/blog/hadoop-vs-spark</a></p><p><a href="https://learn.microsoft.com/en-us/azure/hdinsight/spark/apache-spark-streaming-high-availability">https://learn.microsoft.com/en-us/azure/hdinsight/spark/apache-spark-streaming-high-availability</a></p>]]></content>
     
     
       
