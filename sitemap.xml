@@ -182,7 +182,7 @@
   </url>
   
   <url>
-    <loc>https://hehehuang.github.io/repository/index.html</loc>
+    <loc>https://hehehuang.github.io/categories/index.html</loc>
     
     <lastmod>2022-09-21</lastmod>
     
@@ -191,7 +191,7 @@
   </url>
   
   <url>
-    <loc>https://hehehuang.github.io/categories/index.html</loc>
+    <loc>https://hehehuang.github.io/repository/index.html</loc>
     
     <lastmod>2022-09-21</lastmod>
     
@@ -225,13 +225,6 @@
   </url>
   
   <url>
-    <loc>https://hehehuang.github.io/tags/Python/</loc>
-    <lastmod>2022-09-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://hehehuang.github.io/tags/Data-Structure/</loc>
     <lastmod>2022-09-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -246,7 +239,35 @@
   </url>
   
   <url>
+    <loc>https://hehehuang.github.io/tags/Data-Warehouse/</loc>
+    <lastmod>2022-09-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://hehehuang.github.io/tags/NoSQL/</loc>
+    <lastmod>2022-09-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://hehehuang.github.io/tags/Data-Pipeline/</loc>
+    <lastmod>2022-09-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://hehehuang.github.io/tags/PySpark/</loc>
+    <lastmod>2022-09-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://hehehuang.github.io/tags/Python/</loc>
     <lastmod>2022-09-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -287,38 +308,10 @@
     <priority>0.2</priority>
   </url>
   
-  <url>
-    <loc>https://hehehuang.github.io/tags/Data-Warehouse/</loc>
-    <lastmod>2022-09-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hehehuang.github.io/tags/NoSQL/</loc>
-    <lastmod>2022-09-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hehehuang.github.io/tags/Data-Pipeline/</loc>
-    <lastmod>2022-09-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
 
   
   <url>
     <loc>https://hehehuang.github.io/categories/Big-Data/</loc>
-    <lastmod>2022-09-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hehehuang.github.io/categories/Data-Analysis/</loc>
     <lastmod>2022-09-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -332,7 +325,7 @@
   </url>
   
   <url>
-    <loc>https://hehehuang.github.io/categories/NLP/</loc>
+    <loc>https://hehehuang.github.io/categories/Data-Analysis/</loc>
     <lastmod>2022-09-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -347,6 +340,13 @@
   
   <url>
     <loc>https://hehehuang.github.io/categories/Big-Data/Cloud-Service/</loc>
+    <lastmod>2022-09-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://hehehuang.github.io/categories/NLP/</loc>
     <lastmod>2022-09-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
