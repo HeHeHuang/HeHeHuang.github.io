@@ -172,30 +172,6 @@
   </entry>
   
   <entry>
-    <title>Python Basic</title>
-    <link href="https://hehehuang.github.io/2022/09/23/Python%20Basic/"/>
-    <id>https://hehehuang.github.io/2022/09/23/Python%20Basic/</id>
-    <published>2022-09-23T10:21:30.629Z</published>
-    <updated>2022-09-26T11:23:03.725Z</updated>
-    
-    <content type="html"><![CDATA[<p>opening quotation mark, </p><p>brace</p><h5 id="string"><a href="#string" class="headerlink" title="string"></a>string</h5><p>using variable in string </p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">full_name = f&#x27;&#123;first_name&#125;&#123;last_name&#125;&#x27;</span><br></pre></td></tr></table></figure><p>adding whitespce to string with tabs or newlines</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">print(&#x27;\tPython&#x27;)</span><br><span class="line">\t means tabs</span><br><span class="line">\n means newlines</span><br></pre></td></tr></table></figure><p>stripping </p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Stripping</span><br></pre></td></tr></table></figure><p>syntax error : indicates that interpreter doesn’t recognize something in the code as valid python code.</p><p>for example: </p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"># before python 3.6</span><br><span class="line"></span><br><span class="line">print(f&#x27;&#123;name&#125;&#x27;) # it will causing the syntax error, because interpreter doesn&#x27;t recoginize the code. </span><br></pre></td></tr></table></figure><h5 id="Number"><a href="#Number" class="headerlink" title="Number"></a>Number</h5><p>precisely  decimal </p><p>Underscores in Numbers </p><p>Multiple Assignment </p><p>Constants </p><h5 id="List"><a href="#List" class="headerlink" title="List"></a>List</h5><h6 id="manipulating-the-list"><a href="#manipulating-the-list" class="headerlink" title="manipulating the list"></a>manipulating the list</h6><p>changing, </p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">name[0]= &#x27;hh&#x27;</span><br></pre></td></tr></table></figure><p>add,</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"># append</span><br><span class="line"></span><br><span class="line"># insert</span><br></pre></td></tr></table></figure><p> removing </p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"># del</span><br><span class="line"># remove(&#x27;hh&#x27;)</span><br><span class="line"></span><br><span class="line"># pop()</span><br></pre></td></tr></table></figure><h6 id="originating-the-list"><a href="#originating-the-list" class="headerlink" title="originating the list"></a>originating the list</h6><p>sort </p><p>loop list </p><p>build in data type</p><p>- </p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;opening quotation mark, &lt;/p&gt;
-&lt;p&gt;brace&lt;/p&gt;
-&lt;h5 id=&quot;string&quot;&gt;&lt;a href=&quot;#string&quot; class=&quot;headerlink&quot; title=&quot;string&quot;&gt;&lt;/a&gt;string&lt;/h5&gt;&lt;p&gt;using var</summary>
-      
-    
-    
-    
-    <category term="Python" scheme="https://hehehuang.github.io/categories/Python/"/>
-    
-    
-  </entry>
-  
-  <entry>
     <title>Array &amp; Linked List</title>
     <link href="https://hehehuang.github.io/2022/09/23/Array%20&amp;%20Linked%20List/"/>
     <id>https://hehehuang.github.io/2022/09/23/Array%20&amp;%20Linked%20List/</id>
