@@ -1,6 +1,7 @@
+https://hehehuang.github.io/2022/09/29/Data-Science/
+https://hehehuang.github.io/2022/09/23/Python%20Basic/
 https://hehehuang.github.io/about/index.html
 https://hehehuang.github.io/links/index.html
-https://hehehuang.github.io/2022/09/23/Python%20Basic/
 https://hehehuang.github.io/2022/09/26/Spark-ML-Case/
 https://hehehuang.github.io/2022/09/20/PySpark/
 https://hehehuang.github.io/2022/09/20/AWS/
@@ -23,14 +24,14 @@ https://hehehuang.github.io/repository/index.html
 https://hehehuang.github.io/books/index.html
 https://hehehuang.github.io/
 https://hehehuang.github.io/tags/AWS/
-https://hehehuang.github.io/tags/Data-Structure/
-https://hehehuang.github.io/tags/Algorithm/
-https://hehehuang.github.io/tags/PySpark/
 https://hehehuang.github.io/tags/Data-Warehouse/
 https://hehehuang.github.io/tags/NoSQL/
 https://hehehuang.github.io/tags/Data-Pipeline/
-https://hehehuang.github.io/tags/SQL/
+https://hehehuang.github.io/tags/Data-Structure/
+https://hehehuang.github.io/tags/Algorithm/
+https://hehehuang.github.io/tags/PySpark/
 https://hehehuang.github.io/tags/Python/
+https://hehehuang.github.io/tags/SQL/
 https://hehehuang.github.io/tags/Hadoop/
 https://hehehuang.github.io/tags/Mapreduce/
 https://hehehuang.github.io/tags/Deep-Learning/

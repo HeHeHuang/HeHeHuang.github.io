@@ -6,7 +6,7 @@
   <link href="https://hehehuang.github.io/atom.xml" rel="self"/>
   
   <link href="https://hehehuang.github.io/"/>
-  <updated>2022-09-26T09:21:53.804Z</updated>
+  <updated>2022-09-28T19:55:48.923Z</updated>
   <id>https://hehehuang.github.io/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Data Science</title>
+    <link href="https://hehehuang.github.io/2022/09/29/Data-Science/"/>
+    <id>https://hehehuang.github.io/2022/09/29/Data-Science/</id>
+    <published>2022-09-28T19:10:26.000Z</published>
+    <updated>2022-09-28T19:55:48.923Z</updated>
+    
+    <content type="html"><![CDATA[<ol><li><p>Statistics</p><ul><li>Descriptive Statistic<ul><li>Visualization of data</li></ul></li><li>Inferential Statistics<ul><li>One sample test of difference&#x2F;One sample hypothesis test.</li><li>Confidence Interval</li><li>Contingency Tables and Chi Square Statistic</li><li>T-test or Anova</li><li>Pearson Correlation</li><li>Bi-variate Regression</li><li>Multi-variate Regression</li></ul></li></ul></li><li><p>Probability</p><ul><li><p>Random variable</p></li><li><p>Discrete variable </p></li><li><p>Continous variable</p></li></ul></li><li><p>Line Algebra</p></li><li><p>Calculus</p></li><li><p>Optimization</p><ul><li>Gradient descent</li></ul></li><li><p>Python</p><ul><li>Python Basic</li><li>Python Advance</li><li>Algorithm</li></ul></li><li><p>Web Scraping</p></li><li><p>Machine Learning</p><ul><li><p>Superivor Learning</p><ul><li><p>Regression</p></li><li><p>Classification</p></li></ul></li><li><p>Unsuperivor Learning</p><ul><li>Clusting</li></ul></li></ul></li><li><p>Deep Learning</p></li><li><p>NLP</p></li><li><p>Computer Vision</p></li><li><p>Data Mining</p><ul><li>Network Analysis</li><li>Recommender System</li></ul></li><li><p>Big Data </p><ul><li>Batching Processing<ul><li>Hadoop</li><li>Spark</li><li>Hive</li><li>Kafka</li><li>Flink</li><li>Reids</li></ul></li><li>Stream Processing</li></ul></li><li><p>SQL</p><ul><li>Relation SQL</li><li>NOSQL</li></ul></li><li><p>AWS</p></li><li><p>Docker &amp; K8s </p></li><li><p>Python GUI</p></li><li><p>Web Development</p></li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Statistics&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Descriptive Statistic&lt;ul&gt;
+&lt;li&gt;Visualization of data&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Inferential Statistics&lt;ul&gt;
+&lt;li&gt;</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Spark ML Case</title>
@@ -176,7 +204,7 @@
     <link href="https://hehehuang.github.io/2022/09/23/Python%20Basic/"/>
     <id>https://hehehuang.github.io/2022/09/23/Python%20Basic/</id>
     <published>2022-09-23T10:21:30.629Z</published>
-    <updated>2022-09-28T11:38:00.396Z</updated>
+    <updated>2022-09-28T12:18:55.409Z</updated>
     
     <content type="html"><![CDATA[<p>opening quotation mark, </p><p>brace</p><h4 id="String"><a href="#String" class="headerlink" title="String"></a>String</h4><p>using variable in string </p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">full_name = f&#x27;&#123;first_name&#125;&#123;last_name&#125;&#x27;</span><br></pre></td></tr></table></figure><p>adding whitespce to string with tabs or newlines</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">print(&#x27;\tPython&#x27;)</span><br><span class="line">\t means tabs</span><br><span class="line">\n means newlines</span><br></pre></td></tr></table></figure><p>stripping </p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Stripping</span><br></pre></td></tr></table></figure><p>syntax error : indicates that interpreter doesn’t recognize something in the code as valid python code.</p><p>for example: </p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"># before python 3.6</span><br><span class="line"></span><br><span class="line">print(f&#x27;&#123;name&#125;&#x27;) # it will causing the syntax error, because interpreter doesn&#x27;t recoginize the code. </span><br></pre></td></tr></table></figure><h4 id="Number"><a href="#Number" class="headerlink" title="Number"></a>Number</h4><p>precisely  decimal </p><p>Underscores in Numbers </p><p>Multiple Assignment </p><p>Constants </p><h4 id="List"><a href="#List" class="headerlink" title="List"></a>List</h4><h6 id="manipulating-the-list"><a href="#manipulating-the-list" class="headerlink" title="manipulating the list"></a>manipulating the list</h6><p>changing, </p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">name[0]= &#x27;hh&#x27;</span><br></pre></td></tr></table></figure><p>add,</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"># append</span><br><span class="line"></span><br><span class="line"># insert</span><br></pre></td></tr></table></figure><p> removing </p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"># del</span><br><span class="line"># remove(&#x27;hh&#x27;)</span><br><span class="line"></span><br><span class="line"># pop()</span><br></pre></td></tr></table></figure><h6 id="Oranizing-the-list"><a href="#Oranizing-the-list" class="headerlink" title="Oranizing the list"></a>Oranizing the list</h6><p>sorting a list Permanently </p><p>sorting a list temporarily </p><p>printing a list in reverse order</p><p>finding the length of a list </p><p>intentional error</p><p>Looping through an entire list </p><p>a closer look at looping </p><p>make numerical lists</p><p>range() </p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"></span><br></pre></td></tr></table></figure><p>list comprehensions</p><p>working with part of a list </p><p>slicing a list </p><p>copy a list </p><p>loop list </p><h4 id="Tuple"><a href="#Tuple" class="headerlink" title="Tuple"></a>Tuple</h4><h4 id="If-statement"><a href="#If-statement" class="headerlink" title="If statement"></a>If statement</h4><h4 id="Dictionary"><a href="#Dictionary" class="headerlink" title="Dictionary"></a>Dictionary</h4><h4 id="While-loops"><a href="#While-loops" class="headerlink" title="While loops"></a>While loops</h4><h4 id="Function"><a href="#Function" class="headerlink" title="Function"></a>Function</h4><h4 id="Classes"><a href="#Classes" class="headerlink" title="Classes"></a>Classes</h4><h4 id="Files-and-Exception"><a href="#Files-and-Exception" class="headerlink" title="Files and Exception"></a>Files and Exception</h4><h4 id="Testing-your-code"><a href="#Testing-your-code" class="headerlink" title="Testing your code"></a>Testing your code</h4><p>build in data type</p><h4 id="If-statement-1"><a href="#If-statement-1" class="headerlink" title="If statement"></a>If statement</h4><h4 id="While-Statement"><a href="#While-Statement" class="headerlink" title="While Statement"></a>While Statement</h4><h4 id="Reference"><a href="#Reference" class="headerlink" title="Reference:"></a>Reference:</h4><p>&lt;<Python Crash Course>&gt;</p>]]></content>
     
