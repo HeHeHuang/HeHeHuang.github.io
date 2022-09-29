@@ -6,7 +6,7 @@
   <link href="https://hehehuang.github.io/atom.xml" rel="self"/>
   
   <link href="https://hehehuang.github.io/"/>
-  <updated>2022-09-28T19:55:48.923Z</updated>
+  <updated>2022-09-29T12:39:42.839Z</updated>
   <id>https://hehehuang.github.io/</id>
   
   <author>
@@ -15,6 +15,23 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Recommender System</title>
+    <link href="https://hehehuang.github.io/2022/09/29/Recommender-System/"/>
+    <id>https://hehehuang.github.io/2022/09/29/Recommender-System/</id>
+    <published>2022-09-29T12:38:48.000Z</published>
+    <updated>2022-09-29T12:39:42.839Z</updated>
+    
+    
+    
+    
+    <category term="Big Data" scheme="https://hehehuang.github.io/categories/Big-Data/"/>
+    
+    
+    <category term="PySpark" scheme="https://hehehuang.github.io/tags/PySpark/"/>
+    
+  </entry>
   
   <entry>
     <title>Data Science</title>
