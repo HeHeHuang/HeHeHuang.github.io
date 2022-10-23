@@ -6,7 +6,7 @@
   <link href="https://hehehuang.github.io/atom.xml" rel="self"/>
   
   <link href="https://hehehuang.github.io/"/>
-  <updated>2022-09-29T12:39:42.839Z</updated>
+  <updated>2022-10-23T08:57:33.716Z</updated>
   <id>https://hehehuang.github.io/</id>
   
   <author>
@@ -15,6 +15,21 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>C++ Basic</title>
+    <link href="https://hehehuang.github.io/2022/10/23/C-Basic/"/>
+    <id>https://hehehuang.github.io/2022/10/23/C-Basic/</id>
+    <published>2022-10-23T08:57:04.000Z</published>
+    <updated>2022-10-23T08:57:33.716Z</updated>
+    
+    
+    
+    
+    <category term="C++" scheme="https://hehehuang.github.io/categories/C/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>Recommender System</title>
@@ -38,9 +53,9 @@
     <link href="https://hehehuang.github.io/2022/09/29/Data-Science/"/>
     <id>https://hehehuang.github.io/2022/09/29/Data-Science/</id>
     <published>2022-09-28T19:10:26.000Z</published>
-    <updated>2022-09-28T19:55:48.923Z</updated>
+    <updated>2022-10-14T18:22:57.274Z</updated>
     
-    <content type="html"><![CDATA[<ol><li><p>Statistics</p><ul><li>Descriptive Statistic<ul><li>Visualization of data</li></ul></li><li>Inferential Statistics<ul><li>One sample test of difference&#x2F;One sample hypothesis test.</li><li>Confidence Interval</li><li>Contingency Tables and Chi Square Statistic</li><li>T-test or Anova</li><li>Pearson Correlation</li><li>Bi-variate Regression</li><li>Multi-variate Regression</li></ul></li></ul></li><li><p>Probability</p><ul><li><p>Random variable</p></li><li><p>Discrete variable </p></li><li><p>Continous variable</p></li></ul></li><li><p>Line Algebra</p></li><li><p>Calculus</p></li><li><p>Optimization</p><ul><li>Gradient descent</li></ul></li><li><p>Python</p><ul><li>Python Basic</li><li>Python Advance</li><li>Algorithm</li></ul></li><li><p>Web Scraping</p></li><li><p>Machine Learning</p><ul><li><p>Superivor Learning</p><ul><li><p>Regression</p></li><li><p>Classification</p></li></ul></li><li><p>Unsuperivor Learning</p><ul><li>Clusting</li></ul></li></ul></li><li><p>Deep Learning</p></li><li><p>NLP</p></li><li><p>Computer Vision</p></li><li><p>Data Mining</p><ul><li>Network Analysis</li><li>Recommender System</li></ul></li><li><p>Big Data </p><ul><li>Batching Processing<ul><li>Hadoop</li><li>Spark</li><li>Hive</li><li>Kafka</li><li>Flink</li><li>Reids</li></ul></li><li>Stream Processing</li></ul></li><li><p>SQL</p><ul><li>Relation SQL</li><li>NOSQL</li></ul></li><li><p>AWS</p></li><li><p>Docker &amp; K8s </p></li><li><p>Python GUI</p></li><li><p>Web Development</p></li></ol>]]></content>
+    <content type="html"><![CDATA[<ol><li><p>Statistics</p><ul><li>Descriptive Statistic<ul><li>Visualization of data</li></ul></li><li>Inferential Statistics<ul><li>One sample test of difference&#x2F;One sample hypothesis test.</li><li>Confidence Interval</li><li>Contingency Tables and Chi Square Statistic</li><li>T-test or Anova</li><li>Pearson Correlation</li><li>Bi-variate Regression</li><li>Multi-variate Regression</li></ul></li></ul></li><li><p>Probability</p><ul><li><p>Random variable</p></li><li><p>Discrete variable </p></li><li><p>Continous variable</p></li></ul></li><li><h2 id="Line-Algebra"><a href="#Line-Algebra" class="headerlink" title="Line Algebra"></a>Line Algebra</h2></li><li><p>Calculus</p></li><li><p>Optimization</p><ul><li>Gradient descent</li></ul></li><li><p>Python</p><ul><li>Python Basic</li><li>Python Advance</li><li>Algorithm</li><li>Visualization</li></ul></li><li><p>Web Scraping</p></li><li><p>Machine Learning</p><ul><li><p>Superivor Learning</p><ul><li><p>Regression</p></li><li><p>Classification</p></li></ul></li><li><p>Unsuperivor Learning</p><ul><li>Clusting</li></ul></li></ul></li><li><p>Deep Learning</p><ul><li>DNN</li><li>CNN</li></ul></li><li><p>NLP</p></li><li><p>Computer Vision</p></li><li><p>Data Mining</p><ul><li>Network Analysis</li><li>Recommender System</li></ul></li><li><p>Big Data </p><ul><li>Batching Processing<ul><li>Hadoop</li><li>Spark</li><li>Hive</li><li>Kafka</li><li>Flink</li><li>Reids</li></ul></li><li>Stream Processing</li></ul></li><li><p>SQL</p><ul><li>Relation SQL</li><li>NOSQL</li></ul></li><li><p>AWS</p></li><li><p>Docker &amp; K8s </p></li><li><p>Python GUI</p></li><li><p>Web Development</p></li><li><p>fundatmetals</p></li><li><p>statistics</p></li><li><p>programming</p></li><li><p>machine learning</p></li><li><p>text ming&#x2F;nlp</p></li><li></li><li><p>big data</p></li><li><p>data ingestion</p></li><li><p>data munging</p></li><li><p>Tool box</p></li></ol>]]></content>
     
     
       
@@ -79,9 +94,9 @@
     <link href="https://hehehuang.github.io/2022/09/24/NLP-for-DeepLearning/"/>
     <id>https://hehehuang.github.io/2022/09/24/NLP-for-DeepLearning/</id>
     <published>2022-09-24T10:29:33.000Z</published>
-    <updated>2022-10-14T15:53:16.528Z</updated>
+    <updated>2022-10-14T18:17:53.319Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="DNN"><a href="#DNN" class="headerlink" title="DNN"></a>DNN</h3><p>CNN</p><p>RNN</p><p>LSTM</p><p>Sequence to Sequence</p><p>BERT</p><ol><li>fundatmetals</li><li>statistics</li><li>programming</li><li>machine learning</li><li>text ming&#x2F;nlp</li><li>visualization</li><li>big data</li><li>data ingestion</li><li>data munging</li><li>Tool box</li></ol>]]></content>
+    <content type="html"><![CDATA[<h3 id="DNN"><a href="#DNN" class="headerlink" title="DNN"></a>DNN</h3><p>CNN</p><p>RNN</p><p>LSTM</p><p>Sequence to Sequence</p><p>BERT</p><p>1. </p>]]></content>
     
     
       
