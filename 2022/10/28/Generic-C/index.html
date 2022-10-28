@@ -18,15 +18,15 @@
   
   
   <title>Generic C++ | HuangHeHeTech</title>
-  <meta name="description" content="泛型编程模版什么是模版？函数模版类模版STL">
+  <meta name="description" content="泛型编程模版什么是模版？函数模版怎么声明函数模版？两种方法 怎么使用函数模版？普通的函数与函数模版有什么区别？普通函数发生自动类型转换，（隐式类型转换） 函数模版，如果是利用自动类型推导，不会发生隐式转换， 如果是显示指定类型的方式，可以发生隐式类型转换。 1myFunc&lt;int&gt;();    什么是隐式类型转换？123int a &#x3D; 1char c &#x3D; &amp;#x27;c&amp;#x27;co">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Generic C++">
 <meta property="og:url" content="https://hehehuang.github.io/2022/10/28/Generic-C/index.html">
 <meta property="og:site_name" content="HuangheheTech">
-<meta property="og:description" content="泛型编程模版什么是模版？函数模版类模版STL">
+<meta property="og:description" content="泛型编程模版什么是模版？函数模版怎么声明函数模版？两种方法 怎么使用函数模版？普通的函数与函数模版有什么区别？普通函数发生自动类型转换，（隐式类型转换） 函数模版，如果是利用自动类型推导，不会发生隐式转换， 如果是显示指定类型的方式，可以发生隐式类型转换。 1myFunc&lt;int&gt;();    什么是隐式类型转换？123int a &#x3D; 1char c &#x3D; &amp;#x27;c&amp;#x27;co">
 <meta property="og:locale" content="en_US">
 <meta property="article:published_time" content="2022-10-28T10:10:16.000Z">
-<meta property="article:modified_time" content="2022-10-28T10:16:05.256Z">
+<meta property="article:modified_time" content="2022-10-28T14:31:02.987Z">
 <meta property="article:author" content="Huang He">
 <meta property="article:tag" content="Generic Programming">
 <meta name="twitter:card" content="summary">
@@ -316,7 +316,7 @@
   <div class="slimContent">
     <nav id="toc" class="article-toc">
       <h3 class="toc-title">Catalogue</h3>
-      <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#%E6%B3%9B%E5%9E%8B%E7%BC%96%E7%A8%8B"><span class="toc-number">1.</span> <span class="toc-text">泛型编程</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#%E6%A8%A1%E7%89%88"><span class="toc-number">1.1.</span> <span class="toc-text">模版</span></a><ol class="toc-child"><li class="toc-item toc-level-6"><a class="toc-link" href="#%E4%BB%80%E4%B9%88%E6%98%AF%E6%A8%A1%E7%89%88%EF%BC%9F"><span class="toc-number">1.1.0.0.1.</span> <span class="toc-text">什么是模版？</span></a></li></ol></li></ol></li><li class="toc-item toc-level-4"><a class="toc-link" href="#%E5%87%BD%E6%95%B0%E6%A8%A1%E7%89%88"><span class="toc-number">1.1.1.</span> <span class="toc-text">函数模版</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#%E7%B1%BB%E6%A8%A1%E7%89%88"><span class="toc-number">1.1.2.</span> <span class="toc-text">类模版</span></a></li></ol></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#STL"><span class="toc-number">2.</span> <span class="toc-text">STL</span></a></li></ol>
+      <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#%E6%B3%9B%E5%9E%8B%E7%BC%96%E7%A8%8B"><span class="toc-number">1.</span> <span class="toc-text">泛型编程</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#%E6%A8%A1%E7%89%88"><span class="toc-number">1.1.</span> <span class="toc-text">模版</span></a><ol class="toc-child"><li class="toc-item toc-level-6"><a class="toc-link" href="#%E4%BB%80%E4%B9%88%E6%98%AF%E6%A8%A1%E7%89%88%EF%BC%9F"><span class="toc-number">1.1.0.0.1.</span> <span class="toc-text">什么是模版？</span></a></li></ol></li></ol></li><li class="toc-item toc-level-4"><a class="toc-link" href="#%E5%87%BD%E6%95%B0%E6%A8%A1%E7%89%88"><span class="toc-number">1.1.1.</span> <span class="toc-text">函数模版</span></a><ol class="toc-child"><li class="toc-item toc-level-6"><a class="toc-link" href="#%E6%80%8E%E4%B9%88%E5%A3%B0%E6%98%8E%E5%87%BD%E6%95%B0%E6%A8%A1%E7%89%88%EF%BC%9F"><span class="toc-number">1.1.1.0.1.</span> <span class="toc-text">怎么声明函数模版？</span></a></li><li class="toc-item toc-level-6"><a class="toc-link" href="#%E6%80%8E%E4%B9%88%E4%BD%BF%E7%94%A8%E5%87%BD%E6%95%B0%E6%A8%A1%E7%89%88%EF%BC%9F"><span class="toc-number">1.1.1.0.2.</span> <span class="toc-text">怎么使用函数模版？</span></a></li><li class="toc-item toc-level-6"><a class="toc-link" href="#%E6%99%AE%E9%80%9A%E7%9A%84%E5%87%BD%E6%95%B0%E4%B8%8E%E5%87%BD%E6%95%B0%E6%A8%A1%E7%89%88%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB%EF%BC%9F"><span class="toc-number">1.1.1.0.3.</span> <span class="toc-text">普通的函数与函数模版有什么区别？</span></a></li><li class="toc-item toc-level-6"><a class="toc-link" href="#%E4%BB%80%E4%B9%88%E6%98%AF%E9%9A%90%E5%BC%8F%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2%EF%BC%9F"><span class="toc-number">1.1.1.0.4.</span> <span class="toc-text">什么是隐式类型转换？</span></a></li><li class="toc-item toc-level-6"><a class="toc-link" href="#%E6%A8%A1%E7%89%88%E7%9A%84%E5%B1%80%E9%99%90%E6%80%A7%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F"><span class="toc-number">1.1.1.0.5.</span> <span class="toc-text">模版的局限性是什么？</span></a></li></ol></li></ol></li><li class="toc-item toc-level-4"><a class="toc-link" href="#%E7%B1%BB%E6%A8%A1%E7%89%88"><span class="toc-number">1.1.2.</span> <span class="toc-text">类模版</span></a></li></ol></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#STL"><span class="toc-number">2.</span> <span class="toc-text">STL</span></a></li></ol>
     </nav>
   </div>
 </aside>
@@ -360,7 +360,7 @@
         <span class="post-comment"><i class="icon icon-comment"></i> <a href="/2022/10/28/Generic-C/#comments" class="article-comment-link">Comments</a></span>
         
 	
-		<span class="post-wordcount hidden-xs" itemprop="wordCount">Word Count: 19(words)</span>
+		<span class="post-wordcount hidden-xs" itemprop="wordCount">Word Count: 330(words)</span>
 	
 	
 		<span class="post-readcount hidden-xs" itemprop="timeRequired">Read Count: 1(minutes)</span>
@@ -370,7 +370,32 @@
     </div>
     <div class="article-entry marked-body" itemprop="articleBody">
       
-        <h2 id="泛型编程"><a href="#泛型编程" class="headerlink" title="泛型编程"></a>泛型编程</h2><h3 id="模版"><a href="#模版" class="headerlink" title="模版"></a>模版</h3><h6 id="什么是模版？"><a href="#什么是模版？" class="headerlink" title="什么是模版？"></a>什么是模版？</h6><h4 id="函数模版"><a href="#函数模版" class="headerlink" title="函数模版"></a>函数模版</h4><h4 id="类模版"><a href="#类模版" class="headerlink" title="类模版"></a>类模版</h4><h2 id="STL"><a href="#STL" class="headerlink" title="STL"></a>STL</h2>
+        <h2 id="泛型编程"><a href="#泛型编程" class="headerlink" title="泛型编程"></a>泛型编程</h2><h3 id="模版"><a href="#模版" class="headerlink" title="模版"></a>模版</h3><h6 id="什么是模版？"><a href="#什么是模版？" class="headerlink" title="什么是模版？"></a>什么是模版？</h6><h4 id="函数模版"><a href="#函数模版" class="headerlink" title="函数模版"></a>函数模版</h4><h6 id="怎么声明函数模版？"><a href="#怎么声明函数模版？" class="headerlink" title="怎么声明函数模版？"></a>怎么声明函数模版？</h6><p>两种方法</p>
+<h6 id="怎么使用函数模版？"><a href="#怎么使用函数模版？" class="headerlink" title="怎么使用函数模版？"></a>怎么使用函数模版？</h6><h6 id="普通的函数与函数模版有什么区别？"><a href="#普通的函数与函数模版有什么区别？" class="headerlink" title="普通的函数与函数模版有什么区别？"></a>普通的函数与函数模版有什么区别？</h6><p>普通函数发生自动类型转换，（隐式类型转换）</p>
+<p>函数模版，如果是利用自动类型推导，不会发生隐式转换， 如果是显示指定类型的方式，可以发生隐式类型转换。</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">myFunc&lt;int&gt;();</span><br></pre></td></tr></table></figure>
+
+
+
+<h6 id="什么是隐式类型转换？"><a href="#什么是隐式类型转换？" class="headerlink" title="什么是隐式类型转换？"></a>什么是隐式类型转换？</h6><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">int a = 1</span><br><span class="line">char c = &#x27;c&#x27;</span><br><span class="line">cout &lt;&lt; a + c &lt;&lt; endl; //可以得到结果100， char c 会被自动转换成相对应的ASIC码， c-99 </span><br></pre></td></tr></table></figure>
+
+<p>普通函数与函数模版调用规则是什么？4点</p>
+<ul>
+<li>如果函数模版和普通模版都可以调用， 优先调用函数模版。</li>
+<li>如果想强制性调用函数模版， 可以是用空模版参数列表</li>
+<li>函数模版也可以发生函数重载</li>
+<li>如果函数模版可以产生更好的匹配， 优先调用函数模版</li>
+</ul>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">myFunc&lt;&gt;(a,b) //空模版参数列表</span><br></pre></td></tr></table></figure>
+
+<h6 id="模版的局限性是什么？"><a href="#模版的局限性是什么？" class="headerlink" title="模版的局限性是什么？"></a>模版的局限性是什么？</h6><p>比如，传入的是自定义的Person a 与Person b 就无法对比。 </p>
+<figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">template</span>&lt;<span class="keyword">class</span> T&gt;</span></span><br><span class="line"><span class="function"><span class="type">void</span> <span class="title">compare</span><span class="params">(T a, T b)</span></span>&#123;</span><br><span class="line">  <span class="keyword">if</span> (a &gt;b) &#123; ... &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+
+
+
+
+<h4 id="类模版"><a href="#类模版" class="headerlink" title="类模版"></a>类模版</h4><h2 id="STL"><a href="#STL" class="headerlink" title="STL"></a>STL</h2>
       
     </div>
     <div class="article-footer">
