@@ -26,7 +26,7 @@
 <meta property="og:description" content="泛型编程模版什么是模版？函数模版怎么声明函数模版？两种方法 怎么使用函数模版？普通的函数与函数模版有什么区别？普通函数发生自动类型转换，（隐式类型转换） 函数模版，如果是利用自动类型推导，不会发生隐式转换， 如果是显示指定类型的方式，可以发生隐式类型转换。 1myFunc&lt;int&gt;();    什么是隐式类型转换？123int a &#x3D; 1char c &#x3D; &amp;#x27;c&amp;#x27;co">
 <meta property="og:locale" content="en_US">
 <meta property="article:published_time" content="2022-10-28T10:10:16.000Z">
-<meta property="article:modified_time" content="2022-10-28T14:31:02.987Z">
+<meta property="article:modified_time" content="2022-10-29T16:57:56.402Z">
 <meta property="article:author" content="Huang He">
 <meta property="article:tag" content="Generic Programming">
 <meta name="twitter:card" content="summary">
@@ -316,7 +316,7 @@
   <div class="slimContent">
     <nav id="toc" class="article-toc">
       <h3 class="toc-title">Catalogue</h3>
-      <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#%E6%B3%9B%E5%9E%8B%E7%BC%96%E7%A8%8B"><span class="toc-number">1.</span> <span class="toc-text">泛型编程</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#%E6%A8%A1%E7%89%88"><span class="toc-number">1.1.</span> <span class="toc-text">模版</span></a><ol class="toc-child"><li class="toc-item toc-level-6"><a class="toc-link" href="#%E4%BB%80%E4%B9%88%E6%98%AF%E6%A8%A1%E7%89%88%EF%BC%9F"><span class="toc-number">1.1.0.0.1.</span> <span class="toc-text">什么是模版？</span></a></li></ol></li></ol></li><li class="toc-item toc-level-4"><a class="toc-link" href="#%E5%87%BD%E6%95%B0%E6%A8%A1%E7%89%88"><span class="toc-number">1.1.1.</span> <span class="toc-text">函数模版</span></a><ol class="toc-child"><li class="toc-item toc-level-6"><a class="toc-link" href="#%E6%80%8E%E4%B9%88%E5%A3%B0%E6%98%8E%E5%87%BD%E6%95%B0%E6%A8%A1%E7%89%88%EF%BC%9F"><span class="toc-number">1.1.1.0.1.</span> <span class="toc-text">怎么声明函数模版？</span></a></li><li class="toc-item toc-level-6"><a class="toc-link" href="#%E6%80%8E%E4%B9%88%E4%BD%BF%E7%94%A8%E5%87%BD%E6%95%B0%E6%A8%A1%E7%89%88%EF%BC%9F"><span class="toc-number">1.1.1.0.2.</span> <span class="toc-text">怎么使用函数模版？</span></a></li><li class="toc-item toc-level-6"><a class="toc-link" href="#%E6%99%AE%E9%80%9A%E7%9A%84%E5%87%BD%E6%95%B0%E4%B8%8E%E5%87%BD%E6%95%B0%E6%A8%A1%E7%89%88%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB%EF%BC%9F"><span class="toc-number">1.1.1.0.3.</span> <span class="toc-text">普通的函数与函数模版有什么区别？</span></a></li><li class="toc-item toc-level-6"><a class="toc-link" href="#%E4%BB%80%E4%B9%88%E6%98%AF%E9%9A%90%E5%BC%8F%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2%EF%BC%9F"><span class="toc-number">1.1.1.0.4.</span> <span class="toc-text">什么是隐式类型转换？</span></a></li><li class="toc-item toc-level-6"><a class="toc-link" href="#%E6%A8%A1%E7%89%88%E7%9A%84%E5%B1%80%E9%99%90%E6%80%A7%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F"><span class="toc-number">1.1.1.0.5.</span> <span class="toc-text">模版的局限性是什么？</span></a></li></ol></li></ol></li><li class="toc-item toc-level-4"><a class="toc-link" href="#%E7%B1%BB%E6%A8%A1%E7%89%88"><span class="toc-number">1.1.2.</span> <span class="toc-text">类模版</span></a></li></ol></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#STL"><span class="toc-number">2.</span> <span class="toc-text">STL</span></a></li></ol>
+      <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#%E6%B3%9B%E5%9E%8B%E7%BC%96%E7%A8%8B"><span class="toc-number">1.</span> <span class="toc-text">泛型编程</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#%E6%A8%A1%E7%89%88"><span class="toc-number">1.1.</span> <span class="toc-text">模版</span></a><ol class="toc-child"><li class="toc-item toc-level-6"><a class="toc-link" href="#%E4%BB%80%E4%B9%88%E6%98%AF%E6%A8%A1%E7%89%88%EF%BC%9F"><span class="toc-number">1.1.0.0.1.</span> <span class="toc-text">什么是模版？</span></a></li></ol></li></ol></li><li class="toc-item toc-level-4"><a class="toc-link" href="#%E5%87%BD%E6%95%B0%E6%A8%A1%E7%89%88"><span class="toc-number">1.1.1.</span> <span class="toc-text">函数模版</span></a><ol class="toc-child"><li class="toc-item toc-level-6"><a class="toc-link" href="#%E6%80%8E%E4%B9%88%E5%A3%B0%E6%98%8E%E5%87%BD%E6%95%B0%E6%A8%A1%E7%89%88%EF%BC%9F"><span class="toc-number">1.1.1.0.1.</span> <span class="toc-text">怎么声明函数模版？</span></a></li><li class="toc-item toc-level-6"><a class="toc-link" href="#%E6%80%8E%E4%B9%88%E4%BD%BF%E7%94%A8%E5%87%BD%E6%95%B0%E6%A8%A1%E7%89%88%EF%BC%9F"><span class="toc-number">1.1.1.0.2.</span> <span class="toc-text">怎么使用函数模版？</span></a></li><li class="toc-item toc-level-6"><a class="toc-link" href="#%E6%99%AE%E9%80%9A%E7%9A%84%E5%87%BD%E6%95%B0%E4%B8%8E%E5%87%BD%E6%95%B0%E6%A8%A1%E7%89%88%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB%EF%BC%9F"><span class="toc-number">1.1.1.0.3.</span> <span class="toc-text">普通的函数与函数模版有什么区别？</span></a></li><li class="toc-item toc-level-6"><a class="toc-link" href="#%E4%BB%80%E4%B9%88%E6%98%AF%E9%9A%90%E5%BC%8F%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2%EF%BC%9F"><span class="toc-number">1.1.1.0.4.</span> <span class="toc-text">什么是隐式类型转换？</span></a></li><li class="toc-item toc-level-6"><a class="toc-link" href="#%E6%A8%A1%E7%89%88%E7%9A%84%E5%B1%80%E9%99%90%E6%80%A7%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F"><span class="toc-number">1.1.1.0.5.</span> <span class="toc-text">模版的局限性是什么？</span></a></li></ol></li></ol></li><li class="toc-item toc-level-4"><a class="toc-link" href="#%E7%B1%BB%E6%A8%A1%E7%89%88"><span class="toc-number">1.1.2.</span> <span class="toc-text">类模版</span></a><ol class="toc-child"><li class="toc-item toc-level-6"><a class="toc-link" href="#%E7%B1%BB%E6%A8%A1%E7%89%88%E7%9A%84%E4%BD%9C%E7%94%A8%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F"><span class="toc-number">1.1.2.0.1.</span> <span class="toc-text">类模版的作用是什么？</span></a></li><li class="toc-item toc-level-6"><a class="toc-link" href="#%E7%B1%BB%E6%A8%A1%E7%89%88%E7%9A%84%E8%AF%AD%E6%B3%95%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F"><span class="toc-number">1.1.2.0.2.</span> <span class="toc-text">类模版的语法是什么？</span></a></li></ol></li></ol></li></ol></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#STL"><span class="toc-number">2.</span> <span class="toc-text">STL</span></a><ol class="toc-child"><li class="toc-item toc-level-6"><a class="toc-link" href="#%E4%BB%80%E4%B9%88%E6%98%AFSTL%EF%BC%9F"><span class="toc-number">2.0.0.0.1.</span> <span class="toc-text">什么是STL？</span></a></li><li class="toc-item toc-level-6"><a class="toc-link" href="#STL-%E5%85%AD%E5%A4%A7%E7%BB%84%E4%BB%B6%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F"><span class="toc-number">2.0.0.0.2.</span> <span class="toc-text">STL 六大组件是什么？</span></a></li></ol></li></ol></li></ol></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E5%AE%B9%E5%99%A8"><span class="toc-number">2.1.</span> <span class="toc-text">容器</span></a><ol class="toc-child"><li class="toc-item toc-level-6"><a class="toc-link" href="#%E5%AE%B9%E5%99%A8%E6%8C%87%E7%9A%84%E6%98%AF%E5%93%AA%E4%BA%9B%EF%BC%9F"><span class="toc-number">2.1.0.0.1.</span> <span class="toc-text">容器指的是哪些？</span></a></li></ol></li></ol></li><li class="toc-item toc-level-4"><a class="toc-link" href="#Vector"><span class="toc-number">2.1.1.</span> <span class="toc-text">Vector</span></a><ol class="toc-child"><li class="toc-item toc-level-6"><a class="toc-link" href="#%E4%BB%80%E4%B9%88%E6%98%AFVector%EF%BC%9F"><span class="toc-number">2.1.1.0.1.</span> <span class="toc-text">什么是Vector？</span></a></li></ol></li></ol></li><li class="toc-item toc-level-4"><a class="toc-link" href="#String"><span class="toc-number">2.1.2.</span> <span class="toc-text">String</span></a><ol class="toc-child"><li class="toc-item toc-level-6"><a class="toc-link" href="#%E4%BB%80%E4%B9%88%E6%98%AFString%EF%BC%9F"><span class="toc-number">2.1.2.0.1.</span> <span class="toc-text">什么是String？</span></a></li></ol></li></ol></li></ol></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E7%AE%97%E6%B3%95%EF%BC%9A"><span class="toc-number">2.2.</span> <span class="toc-text">算法：</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E8%BF%AD%E4%BB%A3%E5%99%A8"><span class="toc-number">2.3.</span> <span class="toc-text">迭代器</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E4%BB%BF%E5%87%BD%E6%95%B0"><span class="toc-number">2.4.</span> <span class="toc-text">仿函数</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E9%80%82%E9%85%8D%E5%99%A8%EF%BC%88%E9%85%8D%E6%8E%A5%E5%99%A8%EF%BC%89"><span class="toc-number">2.5.</span> <span class="toc-text">适配器（配接器）</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E7%A9%BA%E9%97%B4%E9%85%8D%E7%BD%AE%E5%99%A8"><span class="toc-number">2.6.</span> <span class="toc-text">空间配置器</span></a></li></ol></li></ol>
     </nav>
   </div>
 </aside>
@@ -360,10 +360,10 @@
         <span class="post-comment"><i class="icon icon-comment"></i> <a href="/2022/10/28/Generic-C/#comments" class="article-comment-link">Comments</a></span>
         
 	
-		<span class="post-wordcount hidden-xs" itemprop="wordCount">Word Count: 330(words)</span>
+		<span class="post-wordcount hidden-xs" itemprop="wordCount">Word Count: 904(words)</span>
 	
 	
-		<span class="post-readcount hidden-xs" itemprop="timeRequired">Read Count: 1(minutes)</span>
+		<span class="post-readcount hidden-xs" itemprop="timeRequired">Read Count: 3(minutes)</span>
 	
 
       </div>
@@ -391,11 +391,38 @@
 <h6 id="模版的局限性是什么？"><a href="#模版的局限性是什么？" class="headerlink" title="模版的局限性是什么？"></a>模版的局限性是什么？</h6><p>比如，传入的是自定义的Person a 与Person b 就无法对比。 </p>
 <figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">template</span>&lt;<span class="keyword">class</span> T&gt;</span></span><br><span class="line"><span class="function"><span class="type">void</span> <span class="title">compare</span><span class="params">(T a, T b)</span></span>&#123;</span><br><span class="line">  <span class="keyword">if</span> (a &gt;b) &#123; ... &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
 
+<p>解决方式： 具体化 自定义的Person类： 告诉编译器 Person 怎么对比。</p>
+<h4 id="类模版"><a href="#类模版" class="headerlink" title="类模版"></a>类模版</h4><h6 id="类模版的作用是什么？"><a href="#类模版的作用是什么？" class="headerlink" title="类模版的作用是什么？"></a>类模版的作用是什么？</h6><p>建立一个通用类，类中的成员数据类型可以不具体制定，而是用一个虚拟的类型来代表。</p>
+<h6 id="类模版的语法是什么？"><a href="#类模版的语法是什么？" class="headerlink" title="类模版的语法是什么？"></a>类模版的语法是什么？</h6><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">template</span>&lt;<span class="keyword">typename</span> T&gt;</span><br><span class="line"><span class="keyword">class</span>&#123;</span><br><span class="line">  </span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
 
-
-
-
-<h4 id="类模版"><a href="#类模版" class="headerlink" title="类模版"></a>类模版</h4><h2 id="STL"><a href="#STL" class="headerlink" title="STL"></a>STL</h2>
+<p>类模版与函数模版的区别是什么？</p>
+<ul>
+<li>类模版没有自动类型推导的使用方式</li>
+<li>类模版在模版参数列表中可以有默认参数</li>
+</ul>
+<h2 id="STL"><a href="#STL" class="headerlink" title="STL"></a>STL</h2><h6 id="什么是STL？"><a href="#什么是STL？" class="headerlink" title="什么是STL？"></a>什么是STL？</h6><p>standard template library</p>
+<p>STL 广义上能分成几大部分？</p>
+<p>三大部分：容器（container）算法（algorithm）迭代器（iterator） </p>
+<h6 id="STL-六大组件是什么？"><a href="#STL-六大组件是什么？" class="headerlink" title="STL 六大组件是什么？"></a>STL 六大组件是什么？</h6><p>容器，算法，</p>
+<p>迭代器：算法与容器之间想要有交流必须通过迭代器</p>
+<p>仿函数：行为类似函数</p>
+<p>适配器（配接器）：比如有些算法只接收一个参数，通过适配器， 就可以使之接收多个算法</p>
+<p>空间配置器：负责空间的配置与管理</p>
+<h3 id="容器"><a href="#容器" class="headerlink" title="容器"></a>容器</h3><h6 id="容器指的是哪些？"><a href="#容器指的是哪些？" class="headerlink" title="容器指的是哪些？"></a>容器指的是哪些？</h6><p>Vector，list，duque, set, map 用来存放数据</p>
+<h4 id="Vector"><a href="#Vector" class="headerlink" title="Vector"></a>Vector</h4><h6 id="什么是Vector？"><a href="#什么是Vector？" class="headerlink" title="什么是Vector？"></a>什么是Vector？</h6><p>动态数组，可以储存一个能够存放任意类型的动态数组，能够增加和压缩数据。</p>
+<p>vector 是同一种类型的对象的集合，每个对象都有一个对应的整数索引值。</p>
+<p>是因为它可以包含其他对象。一个容器中的所有对象都必须是同一种类型的。</p>
+<h4 id="String"><a href="#String" class="headerlink" title="String"></a>String</h4><h6 id="什么是String？"><a href="#什么是String？" class="headerlink" title="什么是String？"></a>什么是String？</h6><p>char * 是指针。 String 本质上是一个类，Char* 型的容器</p>
+<p>序列式容器：</p>
+<p>强调值的排序，序列式容器中的每个元素均有固定的位置。</p>
+<p>关联式容器：</p>
+<p>二叉树的结构，各元素之间没有严格上物理上的顺序关系。</p>
+<h3 id="算法："><a href="#算法：" class="headerlink" title="算法："></a>算法：</h3><p>质变算法</p>
+<p>运算过程中会改变区间内的元素的内容。如：拷贝，替换，删除</p>
+<p>非质变算法</p>
+<p>运算过程中不会更改区间内的元素内容，例如查找，计数，遍历，寻找极值</p>
+<h3 id="迭代器"><a href="#迭代器" class="headerlink" title="迭代器"></a>迭代器</h3><p>提供一种方法，能够依次序寻访某个容器所含的各个元素，而又无需暴露该容器的内部表示方式。</p>
+<h3 id="仿函数"><a href="#仿函数" class="headerlink" title="仿函数"></a>仿函数</h3><h3 id="适配器（配接器）"><a href="#适配器（配接器）" class="headerlink" title="适配器（配接器）"></a>适配器（配接器）</h3><h3 id="空间配置器"><a href="#空间配置器" class="headerlink" title="空间配置器"></a>空间配置器</h3>
       
     </div>
     <div class="article-footer">
