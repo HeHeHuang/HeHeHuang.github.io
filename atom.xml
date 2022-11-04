@@ -6,7 +6,7 @@
   <link href="https://hehehuang.github.io/atom.xml" rel="self"/>
   
   <link href="https://hehehuang.github.io/"/>
-  <updated>2022-10-29T16:57:56.402Z</updated>
+  <updated>2022-11-04T15:59:17.420Z</updated>
   <id>https://hehehuang.github.io/</id>
   
   <author>
@@ -15,6 +15,47 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Linux</title>
+    <link href="https://hehehuang.github.io/2022/11/03/Linux/"/>
+    <id>https://hehehuang.github.io/2022/11/03/Linux/</id>
+    <published>2022-11-02T20:12:59.000Z</published>
+    <updated>2022-11-04T15:59:17.420Z</updated>
+    
+    <content type="html"><![CDATA[<p>准备着：</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;准备着：&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://hehehuang.github.io/2022/11/03/%E5%90%8D%E5%AD%97%EF%BC%9A%E9%BB%84%E9%B9%A4/"/>
+    <id>https://hehehuang.github.io/2022/11/03/%E5%90%8D%E5%AD%97%EF%BC%9A%E9%BB%84%E9%B9%A4/</id>
+    <published>2022-11-02T19:51:51.739Z</published>
+    <updated>2022-11-02T19:51:51.739Z</updated>
+    
+    <content type="html"><![CDATA[<p>名字：黄鹤<br>电话：13515963851<br>身份证：35032119900213001X<br>护照号：ED1057901<br>哪个国家回：新加坡<br>国外航班号：MF852<br>石西村住址：莆田市涵江区江口镇石西村石庭西路346号<br>入境日期：2022-10-26<br>入境隔离点：厦门市湖里区殿前街道港中路1551-1589号<br>隔离酒店名称：厦门高崎健康驿站<br>几号隔离到几号：2022-10-26 到2022-11-03<br>隔离期间几次核酸：5次核酸<br>疫苗几针+日期：辉瑞疫苗三针（2021-07-29，2021-08-20，2022-01-13）<br>是否得过新冠病毒：否</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;名字：黄鹤&lt;br&gt;电话：13515963851&lt;br&gt;身份证：35032119900213001X&lt;br&gt;护照号：ED1057901&lt;br&gt;哪个国家回：新加坡&lt;br&gt;国外航班号：MF852&lt;br&gt;石西村住址：莆田市涵江区江口镇石西村石庭西路346号&lt;br&gt;入境日期：2022</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Generic C++</title>
@@ -402,56 +443,6 @@
     <category term="Data Structure" scheme="https://hehehuang.github.io/tags/Data-Structure/"/>
     
     <category term="Algorithm" scheme="https://hehehuang.github.io/tags/Algorithm/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Sorting</title>
-    <link href="https://hehehuang.github.io/2022/09/22/Sorting/"/>
-    <id>https://hehehuang.github.io/2022/09/22/Sorting/</id>
-    <published>2022-09-22T08:34:21.026Z</published>
-    <updated>2022-09-22T08:42:36.580Z</updated>
-    
-    <content type="html"><![CDATA[<p>sorting is algorithm to sort list in order.</p><p>There are ten basic algorithm:</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;sorting is algorithm to sort list in order.&lt;/p&gt;
-&lt;p&gt;There are ten basic algorithm:&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    <category term="Python" scheme="https://hehehuang.github.io/categories/Python/"/>
-    
-    
-    <category term="Algorithm" scheme="https://hehehuang.github.io/tags/Algorithm/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>AWS</title>
-    <link href="https://hehehuang.github.io/2022/09/20/AWS/"/>
-    <id>https://hehehuang.github.io/2022/09/20/AWS/</id>
-    <published>2022-09-19T17:45:57.203Z</published>
-    <updated>2022-09-25T07:52:00.000Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="What-is-AWS"><a href="#What-is-AWS" class="headerlink" title="What is AWS?"></a>What is AWS?</h2><p>AWS is the cloud computing platform.</p><p>computing: the bussiness requirement </p><p>platform: provides the software like database and hardware: computing resource</p><p>for example:</p><p>Client want to deploy an web application. he just give money and offer the requirement to cloud computing platform and cloud computing platform will provide a series of services to deploy this web application. </p><h2 id="What-is-AWS-with-Big-Data-ecosystem"><a href="#What-is-AWS-with-Big-Data-ecosystem" class="headerlink" title="What is AWS with Big Data ecosystem"></a>What is AWS with Big Data ecosystem</h2><p>AWS service:</p><h3 id="Saas-software-as-a-service"><a href="#Saas-software-as-a-service" class="headerlink" title="- Saas: software as a service"></a>- Saas: software as a service</h3><ul><li>RDS: amazon relational database service</li><li>DynamoDB: K-V type NOSQL</li><li>Redshift: Data warehouse (<a href="https://www.postgresql.org/">PostgreSQ</a>)</li><li>AWS Glue: ETL tool</li><li>EMR: the Hadoop of AWS</li><li>Kinesis: Stream process</li></ul><h3 id="Paas-Platform-as-a-service"><a href="#Paas-Platform-as-a-service" class="headerlink" title="- Paas: Platform as a service"></a>- Paas: Platform as a service</h3><ul><li>S3: Amazon simple storge service &#x3D; HDFS</li><li>AWS deep learning</li><li>cloud watch &amp; cloud watch log</li></ul><h3 id="Iaas-Infrustructure-as-a-service"><a href="#Iaas-Infrustructure-as-a-service" class="headerlink" title="- Iaas: Infrustructure as a service"></a>- Iaas: Infrustructure as a service</h3><ul><li>EC2 &#x3D; VMware</li><li>VPC</li><li>AWS Direct connect</li></ul><h3 id="Data-Science-on-AWS"><a href="#Data-Science-on-AWS" class="headerlink" title="Data Science on AWS"></a>Data Science on AWS</h3><p>Automated Machine Learning</p><p>ingest Data into the cloud</p><p>Explore the dataset</p><p>prepare the data for model training </p><p>Train model</p><p>optimize model</p><p>Deploy Model to production</p><p>Pipelines and MLOps</p><p>Streaming Analytics and machine learning</p><p>Secure on AWS…</p><h3 id="Data-Engineer-with-AWS"><a href="#Data-Engineer-with-AWS" class="headerlink" title="Data Engineer with AWS"></a>Data Engineer with AWS</h3><p>the</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;What-is-AWS&quot;&gt;&lt;a href=&quot;#What-is-AWS&quot; class=&quot;headerlink&quot; title=&quot;What is AWS?&quot;&gt;&lt;/a&gt;What is AWS?&lt;/h2&gt;&lt;p&gt;AWS is the cloud computing platf</summary>
-      
-    
-    
-    
-    <category term="Big Data" scheme="https://hehehuang.github.io/categories/Big-Data/"/>
-    
-    
-    <category term="AWS" scheme="https://hehehuang.github.io/tags/AWS/"/>
     
   </entry>
   
