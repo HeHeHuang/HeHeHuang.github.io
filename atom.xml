@@ -6,7 +6,7 @@
   <link href="https://hehehuang.github.io/atom.xml" rel="self"/>
   
   <link href="https://hehehuang.github.io/"/>
-  <updated>2022-11-04T15:59:17.420Z</updated>
+  <updated>2022-11-05T15:00:43.566Z</updated>
   <id>https://hehehuang.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Computer Composition</title>
+    <link href="https://hehehuang.github.io/2022/11/05/Computer-Composition/"/>
+    <id>https://hehehuang.github.io/2022/11/05/Computer-Composition/</id>
+    <published>2022-11-05T13:15:20.000Z</published>
+    <updated>2022-11-05T15:00:43.566Z</updated>
+    
+    <content type="html"><![CDATA[<p>中央处理器</p><h6 id="什么是CPU？"><a href="#什么是CPU？" class="headerlink" title="什么是CPU？"></a>什么是CPU？</h6><p>处理指令：鼠标的点击，键盘的按</p><p>运算数据：1+1 的运算</p><p>存储器：</p><p>内存储器： </p><h6 id="什么是内存？"><a href="#什么是内存？" class="headerlink" title="什么是内存？"></a>什么是内存？</h6><p>内存是临时存储等待CPU处理的数据，读写速度很快。</p><p>在程序运行的时候， 代码是需要在内存开辟空间来储存的。 </p><p>当内存满了以后， 电脑也就卡了。</p><p>所以，数据结构与算法就显得重要了。 </p><p>外存储器：硬盘</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;中央处理器&lt;/p&gt;
+&lt;h6 id=&quot;什么是CPU？&quot;&gt;&lt;a href=&quot;#什么是CPU？&quot; class=&quot;headerlink&quot; title=&quot;什么是CPU？&quot;&gt;&lt;/a&gt;什么是CPU？&lt;/h6&gt;&lt;p&gt;处理指令：鼠标的点击，键盘的按&lt;/p&gt;
+&lt;p&gt;运算数据：1+1 的运算&lt;/</summary>
+      
+    
+    
+    
+    <category term="Computer Composition" scheme="https://hehehuang.github.io/categories/Computer-Composition/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>Linux</title>
@@ -30,26 +54,6 @@
       
     <summary type="html">&lt;p&gt;准备着：&lt;/p&gt;
 </summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="https://hehehuang.github.io/2022/11/03/%E5%90%8D%E5%AD%97%EF%BC%9A%E9%BB%84%E9%B9%A4/"/>
-    <id>https://hehehuang.github.io/2022/11/03/%E5%90%8D%E5%AD%97%EF%BC%9A%E9%BB%84%E9%B9%A4/</id>
-    <published>2022-11-02T19:51:51.739Z</published>
-    <updated>2022-11-02T19:51:51.739Z</updated>
-    
-    <content type="html"><![CDATA[<p>名字：黄鹤<br>电话：13515963851<br>身份证：35032119900213001X<br>护照号：ED1057901<br>哪个国家回：新加坡<br>国外航班号：MF852<br>石西村住址：莆田市涵江区江口镇石西村石庭西路346号<br>入境日期：2022-10-26<br>入境隔离点：厦门市湖里区殿前街道港中路1551-1589号<br>隔离酒店名称：厦门高崎健康驿站<br>几号隔离到几号：2022-10-26 到2022-11-03<br>隔离期间几次核酸：5次核酸<br>疫苗几针+日期：辉瑞疫苗三针（2021-07-29，2021-08-20，2022-01-13）<br>是否得过新冠病毒：否</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;名字：黄鹤&lt;br&gt;电话：13515963851&lt;br&gt;身份证：35032119900213001X&lt;br&gt;护照号：ED1057901&lt;br&gt;哪个国家回：新加坡&lt;br&gt;国外航班号：MF852&lt;br&gt;石西村住址：莆田市涵江区江口镇石西村石庭西路346号&lt;br&gt;入境日期：2022</summary>
       
     
     
