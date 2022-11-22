@@ -1,6 +1,6 @@
+https://hehehuang.github.io/2022/09/23/Python%20OOP/
 https://hehehuang.github.io/2022/11/21/Python-Advance/
 https://hehehuang.github.io/2022/09/23/Python%20Basic/
-https://hehehuang.github.io/2022/09/23/Python%20OOP/
 https://hehehuang.github.io/2022/09/23/Data-Analysis-with-Python/
 https://hehehuang.github.io/2022/11/05/Computer-Composition/
 https://hehehuang.github.io/2022/11/03/Linux/
@@ -38,8 +38,8 @@ https://hehehuang.github.io/tags/Data-Warehouse/
 https://hehehuang.github.io/tags/NoSQL/
 https://hehehuang.github.io/tags/Data-Pipeline/
 https://hehehuang.github.io/tags/PySpark/
-https://hehehuang.github.io/tags/Python/
 https://hehehuang.github.io/tags/SQL/
+https://hehehuang.github.io/tags/Python/
 https://hehehuang.github.io/tags/Generic-Programming/
 https://hehehuang.github.io/tags/Hadoop/
 https://hehehuang.github.io/tags/Mapreduce/
@@ -47,8 +47,8 @@ https://hehehuang.github.io/tags/Deep-Learning/
 https://hehehuang.github.io/tags/Writing/
 https://hehehuang.github.io/categories/Big-Data/
 https://hehehuang.github.io/categories/Python/
-https://hehehuang.github.io/categories/Computer-Composition/
 https://hehehuang.github.io/categories/C/
+https://hehehuang.github.io/categories/Computer-Composition/
 https://hehehuang.github.io/categories/Big-Data/Cloud-Service/
 https://hehehuang.github.io/categories/Data-Analysis/
 https://hehehuang.github.io/categories/English/
