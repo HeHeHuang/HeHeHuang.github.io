@@ -6,7 +6,7 @@
   <link href="https://hehehuang.github.io/atom.xml" rel="self"/>
   
   <link href="https://hehehuang.github.io/"/>
-  <updated>2022-11-23T13:09:55.478Z</updated>
+  <updated>2022-11-25T10:52:10.318Z</updated>
   <id>https://hehehuang.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>ML Introduction</title>
+    <link href="https://hehehuang.github.io/2022/11/25/ML-Introduction/"/>
+    <id>https://hehehuang.github.io/2022/11/25/ML-Introduction/</id>
+    <published>2022-11-25T10:49:46.000Z</published>
+    <updated>2022-11-25T10:52:10.318Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="Machine-Learning-流程"><a href="#Machine-Learning-流程" class="headerlink" title="Machine Learning 流程"></a>Machine Learning 流程</h3><p>不同类型的Machine Learning</p><p>Linear Regression</p><p>Logistic Regression</p><p>SVM</p><p>Pertron</p><p>Byies</p><p>Decision Tree</p><p>Random Tree</p><p>Boosting </p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;Machine-Learning-流程&quot;&gt;&lt;a href=&quot;#Machine-Learning-流程&quot; class=&quot;headerlink&quot; title=&quot;Machine Learning 流程&quot;&gt;&lt;/a&gt;Machine Learning 流程&lt;/h3&gt;&lt;p&gt;不同</summary>
+      
+    
+    
+    
+    <category term="Machine Learning" scheme="https://hehehuang.github.io/categories/Machine-Learning/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>PythonDataStructure</title>
@@ -369,15 +391,15 @@
     <link href="https://hehehuang.github.io/2022/09/23/Data-Analysis-with-Python/"/>
     <id>https://hehehuang.github.io/2022/09/23/Data-Analysis-with-Python/</id>
     <published>2022-09-23T10:24:12.280Z</published>
-    <updated>2022-11-18T08:42:41.309Z</updated>
+    <updated>2022-11-25T10:49:04.046Z</updated>
     
-    <content type="html"><![CDATA[<p>from python for data analysis</p>]]></content>
+    <content type="html"><![CDATA[<p>from python for data analysis</p><h3 id="Numpy"><a href="#Numpy" class="headerlink" title="Numpy"></a>Numpy</h3><h3 id="Pandas"><a href="#Pandas" class="headerlink" title="Pandas"></a>Pandas</h3><h3 id="Matplotlib"><a href="#Matplotlib" class="headerlink" title="Matplotlib"></a>Matplotlib</h3>]]></content>
     
     
       
       
     <summary type="html">&lt;p&gt;from python for data analysis&lt;/p&gt;
-</summary>
+&lt;h3 id=&quot;Numpy&quot;&gt;&lt;a href=&quot;#Numpy&quot; class=&quot;headerlink&quot; title=&quot;Numpy&quot;&gt;&lt;/a&gt;Numpy&lt;/h3&gt;&lt;h3 id=&quot;Pandas&quot;&gt;&lt;a href=</summary>
       
     
     
@@ -430,25 +452,6 @@
     
     <category term="Python" scheme="https://hehehuang.github.io/categories/Python/"/>
     
-    
-  </entry>
-  
-  <entry>
-    <title>Array &amp; Linked List</title>
-    <link href="https://hehehuang.github.io/2022/09/23/Array%20&amp;%20Linked%20List/"/>
-    <id>https://hehehuang.github.io/2022/09/23/Array%20&amp;%20Linked%20List/</id>
-    <published>2022-09-23T10:20:09.606Z</published>
-    <updated>2022-09-23T10:20:32.597Z</updated>
-    
-    
-    
-    
-    <category term="Python" scheme="https://hehehuang.github.io/categories/Python/"/>
-    
-    
-    <category term="Data Structure" scheme="https://hehehuang.github.io/tags/Data-Structure/"/>
-    
-    <category term="Algorithm" scheme="https://hehehuang.github.io/tags/Algorithm/"/>
     
   </entry>
   
