@@ -26,7 +26,7 @@
 <meta property="og:description" content="微积分的本质导数什么是导数？f(x) 在x的导数： 在x点，x的微小变化与y的微小变化之间的关系 dy&#x2F;dx Derivatives are fundamentally about looking at tiny changes to some quantity and how that relates to a resulting tiny change in another quan">
 <meta property="og:locale" content="en_US">
 <meta property="article:published_time" content="2022-11-27T12:12:49.000Z">
-<meta property="article:modified_time" content="2022-11-29T10:10:38.864Z">
+<meta property="article:modified_time" content="2022-11-29T11:02:17.370Z">
 <meta property="article:author" content="Huang He">
 <meta property="article:tag" content="hexo,node,blog">
 <meta name="twitter:card" content="summary">
@@ -316,7 +316,7 @@
   <div class="slimContent">
     <nav id="toc" class="article-toc">
       <h3 class="toc-title">Catalogue</h3>
-      <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%BE%AE%E7%A7%AF%E5%88%86%E7%9A%84%E6%9C%AC%E8%B4%A8"><span class="toc-number">1.</span> <span class="toc-text">微积分的本质</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%AF%BC%E6%95%B0"><span class="toc-number">2.</span> <span class="toc-text">导数</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#%E4%BB%80%E4%B9%88%E6%98%AF%E5%AF%BC%E6%95%B0%EF%BC%9F"><span class="toc-number">2.1.</span> <span class="toc-text">什么是导数？</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E6%80%8E%E4%B9%88%E6%B1%82%E5%AF%BC%E6%95%B0%EF%BC%9F"><span class="toc-number">2.2.</span> <span class="toc-text">怎么求导数？</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%87%A0%E4%BD%95%E7%9A%84%E8%A7%92%E5%BA%A6%E7%9C%8B%E5%AF%BC%E6%95%B0"><span class="toc-number">3.</span> <span class="toc-text">几何的角度看导数</span></a></li></ol>
+      <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%BE%AE%E7%A7%AF%E5%88%86%E7%9A%84%E6%9C%AC%E8%B4%A8"><span class="toc-number">1.</span> <span class="toc-text">微积分的本质</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%AF%BC%E6%95%B0"><span class="toc-number">2.</span> <span class="toc-text">导数</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#%E4%BB%80%E4%B9%88%E6%98%AF%E5%AF%BC%E6%95%B0%EF%BC%9F"><span class="toc-number">2.1.</span> <span class="toc-text">什么是导数？</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E6%80%8E%E4%B9%88%E6%B1%82%E5%AF%BC%E6%95%B0%EF%BC%9F"><span class="toc-number">2.2.</span> <span class="toc-text">怎么求导数？</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%87%A0%E4%BD%95%E7%9A%84%E8%A7%92%E5%BA%A6%E7%9C%8B%E5%AF%BC%E6%95%B0"><span class="toc-number">3.</span> <span class="toc-text">几何的角度看导数</span></a><ol class="toc-child"><li class="toc-item toc-level-4"><a class="toc-link" href="#%E5%81%87%E8%AE%BEx-x-%E5%A2%9E%E5%8A%A0%E4%BA%86dx%EF%BC%8C-%E4%BB%8E%E5%9B%BE%E5%83%8F%E4%B8%AD%E6%80%8E%E4%B9%88%E7%9C%8B%E5%87%BA%E6%9D%A5%EF%BC%9F"><span class="toc-number">3.0.1.</span> <span class="toc-text">假设x*x 增加了dx， 从图像中怎么看出来？</span></a></li></ol></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0"><span class="toc-number">3.1.</span> <span class="toc-text">三角函数</span></a></li></ol></li></ol>
     </nav>
   </div>
 </aside>
@@ -355,7 +355,7 @@
         <span class="post-comment"><i class="icon icon-comment"></i> <a href="/2022/11/27/calculus/#comments" class="article-comment-link">Comments</a></span>
         
 	
-		<span class="post-wordcount hidden-xs" itemprop="wordCount">Word Count: 99(words)</span>
+		<span class="post-wordcount hidden-xs" itemprop="wordCount">Word Count: 136(words)</span>
 	
 	
 		<span class="post-readcount hidden-xs" itemprop="timeRequired">Read Count: 1(minutes)</span>
@@ -371,7 +371,9 @@
 <h3 id="怎么求导数？"><a href="#怎么求导数？" class="headerlink" title="怎么求导数？"></a>怎么求导数？</h3><p>y&#x3D;x*x</p>
 <p>y+dy &#x3D; (x+dx)(x+dy)</p>
 <p>求出 dy&#x2F;dx </p>
-<h2 id="几何的角度看导数"><a href="#几何的角度看导数" class="headerlink" title="几何的角度看导数"></a>几何的角度看导数</h2><p>假设x*x </p>
+<h2 id="几何的角度看导数"><a href="#几何的角度看导数" class="headerlink" title="几何的角度看导数"></a>几何的角度看导数</h2><h4 id="假设x-x-增加了dx，-从图像中怎么看出来？"><a href="#假设x-x-增加了dx，-从图像中怎么看出来？" class="headerlink" title="假设x*x 增加了dx， 从图像中怎么看出来？"></a>假设x*x 增加了dx， 从图像中怎么看出来？</h4><p>怎么求1&#x2F;x的导数？</p>
+<h3 id="三角函数"><a href="#三角函数" class="headerlink" title="三角函数"></a>三角函数</h3><p>sinx cosx </p>
+<p>为什么sinx的导数是cos x？</p>
 
       
     </div>

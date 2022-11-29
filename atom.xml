@@ -88,9 +88,9 @@
     <link href="https://hehehuang.github.io/2022/11/27/calculus/"/>
     <id>https://hehehuang.github.io/2022/11/27/calculus/</id>
     <published>2022-11-27T12:12:49.000Z</published>
-    <updated>2022-11-29T10:10:38.864Z</updated>
+    <updated>2022-11-29T11:02:17.370Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="微积分的本质"><a href="#微积分的本质" class="headerlink" title="微积分的本质"></a>微积分的本质</h2><h2 id="导数"><a href="#导数" class="headerlink" title="导数"></a>导数</h2><h3 id="什么是导数？"><a href="#什么是导数？" class="headerlink" title="什么是导数？"></a>什么是导数？</h3><p>f(x) 在x的导数： 在x点，x的微小变化与y的微小变化之间的关系</p><p>dy&#x2F;dx</p><p>Derivatives are fundamentally about looking at tiny changes to some quantity and how that relates to a resulting tiny change in another quantity.</p><h3 id="怎么求导数？"><a href="#怎么求导数？" class="headerlink" title="怎么求导数？"></a>怎么求导数？</h3><p>y&#x3D;x*x</p><p>y+dy &#x3D; (x+dx)(x+dy)</p><p>求出 dy&#x2F;dx </p><h2 id="几何的角度看导数"><a href="#几何的角度看导数" class="headerlink" title="几何的角度看导数"></a>几何的角度看导数</h2><p>假设x*x </p>]]></content>
+    <content type="html"><![CDATA[<h2 id="微积分的本质"><a href="#微积分的本质" class="headerlink" title="微积分的本质"></a>微积分的本质</h2><h2 id="导数"><a href="#导数" class="headerlink" title="导数"></a>导数</h2><h3 id="什么是导数？"><a href="#什么是导数？" class="headerlink" title="什么是导数？"></a>什么是导数？</h3><p>f(x) 在x的导数： 在x点，x的微小变化与y的微小变化之间的关系</p><p>dy&#x2F;dx</p><p>Derivatives are fundamentally about looking at tiny changes to some quantity and how that relates to a resulting tiny change in another quantity.</p><h3 id="怎么求导数？"><a href="#怎么求导数？" class="headerlink" title="怎么求导数？"></a>怎么求导数？</h3><p>y&#x3D;x*x</p><p>y+dy &#x3D; (x+dx)(x+dy)</p><p>求出 dy&#x2F;dx </p><h2 id="几何的角度看导数"><a href="#几何的角度看导数" class="headerlink" title="几何的角度看导数"></a>几何的角度看导数</h2><h4 id="假设x-x-增加了dx，-从图像中怎么看出来？"><a href="#假设x-x-增加了dx，-从图像中怎么看出来？" class="headerlink" title="假设x*x 增加了dx， 从图像中怎么看出来？"></a>假设x*x 增加了dx， 从图像中怎么看出来？</h4><p>怎么求1&#x2F;x的导数？</p><h3 id="三角函数"><a href="#三角函数" class="headerlink" title="三角函数"></a>三角函数</h3><p>sinx cosx </p><p>为什么sinx的导数是cos x？</p>]]></content>
     
     
       
