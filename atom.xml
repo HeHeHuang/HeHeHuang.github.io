@@ -6,7 +6,7 @@
   <link href="https://hehehuang.github.io/atom.xml" rel="self"/>
   
   <link href="https://hehehuang.github.io/"/>
-  <updated>2022-11-28T04:19:29.731Z</updated>
+  <updated>2022-12-03T12:18:17.582Z</updated>
   <id>https://hehehuang.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Requirement Analysis</title>
+    <link href="https://hehehuang.github.io/2022/12/03/Requirement-Analysis/"/>
+    <id>https://hehehuang.github.io/2022/12/03/Requirement-Analysis/</id>
+    <published>2022-12-03T12:17:52.000Z</published>
+    <updated>2022-12-03T12:18:17.582Z</updated>
+    
+    <content type="html"><![CDATA[<p>requirement analysis</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;requirement analysis&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Learning Method</title>
@@ -73,8 +94,19 @@
     <link href="https://hehehuang.github.io/2022/11/27/linear-algebra/"/>
     <id>https://hehehuang.github.io/2022/11/27/linear-algebra/</id>
     <published>2022-11-27T12:13:39.000Z</published>
-    <updated>2022-11-27T12:16:58.495Z</updated>
+    <updated>2022-11-29T11:35:03.547Z</updated>
     
+    <content type="html"><![CDATA[<h2 id="序言"><a href="#序言" class="headerlink" title="序言"></a>序言</h2><p>为什么学这个？</p><p>从哪里学的？</p><p>学完以后可以学什么？</p><p>向量究竟是什么？</p><p>线性组合，张成的空间与基</p><p>矩阵与线性变换</p><p>矩阵乘法与线性变换复合</p><p>三维空间中的线性变换</p><p>行列式</p><p>逆矩阵，列空间与零空间</p><p>非方阵</p><p>电积与对偶性</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;序言&quot;&gt;&lt;a href=&quot;#序言&quot; class=&quot;headerlink&quot; title=&quot;序言&quot;&gt;&lt;/a&gt;序言&lt;/h2&gt;&lt;p&gt;为什么学这个？&lt;/p&gt;
+&lt;p&gt;从哪里学的？&lt;/p&gt;
+&lt;p&gt;学完以后可以学什么？&lt;/p&gt;
+&lt;p&gt;向量究竟是什么？&lt;/p&gt;
+&lt;p&gt;线性组合，张成</summary>
+      
     
     
     
@@ -88,14 +120,17 @@
     <link href="https://hehehuang.github.io/2022/11/27/calculus/"/>
     <id>https://hehehuang.github.io/2022/11/27/calculus/</id>
     <published>2022-11-27T12:12:49.000Z</published>
-    <updated>2022-11-29T11:02:17.370Z</updated>
+    <updated>2022-11-29T11:14:15.501Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="微积分的本质"><a href="#微积分的本质" class="headerlink" title="微积分的本质"></a>微积分的本质</h2><h2 id="导数"><a href="#导数" class="headerlink" title="导数"></a>导数</h2><h3 id="什么是导数？"><a href="#什么是导数？" class="headerlink" title="什么是导数？"></a>什么是导数？</h3><p>f(x) 在x的导数： 在x点，x的微小变化与y的微小变化之间的关系</p><p>dy&#x2F;dx</p><p>Derivatives are fundamentally about looking at tiny changes to some quantity and how that relates to a resulting tiny change in another quantity.</p><h3 id="怎么求导数？"><a href="#怎么求导数？" class="headerlink" title="怎么求导数？"></a>怎么求导数？</h3><p>y&#x3D;x*x</p><p>y+dy &#x3D; (x+dx)(x+dy)</p><p>求出 dy&#x2F;dx </p><h2 id="几何的角度看导数"><a href="#几何的角度看导数" class="headerlink" title="几何的角度看导数"></a>几何的角度看导数</h2><h4 id="假设x-x-增加了dx，-从图像中怎么看出来？"><a href="#假设x-x-增加了dx，-从图像中怎么看出来？" class="headerlink" title="假设x*x 增加了dx， 从图像中怎么看出来？"></a>假设x*x 增加了dx， 从图像中怎么看出来？</h4><p>怎么求1&#x2F;x的导数？</p><h3 id="三角函数"><a href="#三角函数" class="headerlink" title="三角函数"></a>三角函数</h3><p>sinx cosx </p><p>为什么sinx的导数是cos x？</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h2><p>为什么学这个？</p><p>从哪里学的？</p><p>学完以后可以学什么？</p><h2 id="微积分的本质"><a href="#微积分的本质" class="headerlink" title="微积分的本质"></a>微积分的本质</h2><h2 id="导数"><a href="#导数" class="headerlink" title="导数"></a>导数</h2><h3 id="什么是导数？"><a href="#什么是导数？" class="headerlink" title="什么是导数？"></a>什么是导数？</h3><p>f(x) 在x的导数： 在x点，x的微小变化与y的微小变化之间的关系</p><p>dy&#x2F;dx</p><p>Derivatives are fundamentally about looking at tiny changes to some quantity and how that relates to a resulting tiny change in another quantity.</p><h3 id="怎么求导数？"><a href="#怎么求导数？" class="headerlink" title="怎么求导数？"></a>怎么求导数？</h3><p>y&#x3D;x*x</p><p>y+dy &#x3D; (x+dx)(x+dy)</p><p>求出 dy&#x2F;dx </p><h2 id="几何的角度看导数"><a href="#几何的角度看导数" class="headerlink" title="几何的角度看导数"></a>几何的角度看导数</h2><h4 id="假设x-x-增加了dx，-从图像中怎么看出来？"><a href="#假设x-x-增加了dx，-从图像中怎么看出来？" class="headerlink" title="假设x*x 增加了dx， 从图像中怎么看出来？"></a>假设x*x 增加了dx， 从图像中怎么看出来？</h4><p>怎么求1&#x2F;x的导数？</p><h3 id="三角函数"><a href="#三角函数" class="headerlink" title="三角函数"></a>三角函数</h3><p>sinx cosx </p><p>为什么sinx的导数是cos x？</p><h2 id="链式法则和乘积法则"><a href="#链式法则和乘积法则" class="headerlink" title="链式法则和乘积法则"></a>链式法则和乘积法则</h2><h2 id="指数函数求导"><a href="#指数函数求导" class="headerlink" title="指数函数求导"></a>指数函数求导</h2><h2 id="隐函数求导是怎么回事？"><a href="#隐函数求导是怎么回事？" class="headerlink" title="隐函数求导是怎么回事？"></a>隐函数求导是怎么回事？</h2><h2 id="极限"><a href="#极限" class="headerlink" title="极限"></a>极限</h2><h2 id="积分与微积分基本定理"><a href="#积分与微积分基本定理" class="headerlink" title="积分与微积分基本定理"></a>积分与微积分基本定理</h2><h2 id="面积和斜率有什么联系"><a href="#面积和斜率有什么联系" class="headerlink" title="面积和斜率有什么联系"></a>面积和斜率有什么联系</h2><h2 id="高阶导数"><a href="#高阶导数" class="headerlink" title="高阶导数"></a>高阶导数</h2>]]></content>
     
     
       
       
-    <summary type="html">&lt;h2 id=&quot;微积分的本质&quot;&gt;&lt;a href=&quot;#微积分的本质&quot; class=&quot;headerlink&quot; title=&quot;微积分的本质&quot;&gt;&lt;/a&gt;微积分的本质&lt;/h2&gt;&lt;h2 id=&quot;导数&quot;&gt;&lt;a href=&quot;#导数&quot; class=&quot;headerlink&quot; title=&quot;导数&quot;&gt;&lt;</summary>
+    <summary type="html">&lt;h2 id=&quot;介绍&quot;&gt;&lt;a href=&quot;#介绍&quot; class=&quot;headerlink&quot; title=&quot;介绍&quot;&gt;&lt;/a&gt;介绍&lt;/h2&gt;&lt;p&gt;为什么学这个？&lt;/p&gt;
+&lt;p&gt;从哪里学的？&lt;/p&gt;
+&lt;p&gt;学完以后可以学什么？&lt;/p&gt;
+&lt;h2 id=&quot;微积分的本质&quot;&gt;&lt;a href=&quot;#</summary>
       
     
     
@@ -425,19 +460,6 @@
     
     
     <category term="Writing" scheme="https://hehehuang.github.io/tags/Writing/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Machine Learning</title>
-    <link href="https://hehehuang.github.io/2022/09/23/Machine-Learning/"/>
-    <id>https://hehehuang.github.io/2022/09/23/Machine-Learning/</id>
-    <published>2022-09-23T13:04:19.000Z</published>
-    <updated>2022-09-23T13:04:19.039Z</updated>
-    
-    
-    
-    
     
   </entry>
   
