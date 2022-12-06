@@ -6,7 +6,7 @@
   <link href="https://hehehuang.github.io/atom.xml" rel="self"/>
   
   <link href="https://hehehuang.github.io/"/>
-  <updated>2022-12-05T13:44:11.570Z</updated>
+  <updated>2022-12-06T14:17:42.039Z</updated>
   <id>https://hehehuang.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Python Automation</title>
+    <link href="https://hehehuang.github.io/2022/12/06/Python-Automation/"/>
+    <id>https://hehehuang.github.io/2022/12/06/Python-Automation/</id>
+    <published>2022-12-06T14:17:08.000Z</published>
+    <updated>2022-12-06T14:17:42.039Z</updated>
+    
+    <content type="html"><![CDATA[<p>python 自动化 操作文档</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;python 自动化 操作文档&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Requirement Analysis</title>
@@ -439,30 +460,6 @@
     
     <category term="English" scheme="https://hehehuang.github.io/categories/English/"/>
     
-    
-  </entry>
-  
-  <entry>
-    <title>Write an article</title>
-    <link href="https://hehehuang.github.io/2022/09/24/Write-an-artical/"/>
-    <id>https://hehehuang.github.io/2022/09/24/Write-an-artical/</id>
-    <published>2022-09-24T08:56:07.000Z</published>
-    <updated>2022-09-24T09:43:02.358Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="Five-step-to-write-an-article"><a href="#Five-step-to-write-an-article" class="headerlink" title="Five step to write an article"></a>Five step to write an article</h1><h2 id="1-Ask-a-question"><a href="#1-Ask-a-question" class="headerlink" title="1. Ask a question"></a>1. Ask a question</h2><h2 id="2-Write-a-thesis-statement-answer-the-question"><a href="#2-Write-a-thesis-statement-answer-the-question" class="headerlink" title="2. Write a thesis statement (answer the question)"></a>2. Write a thesis statement (answer the question)</h2><h2 id="3-Write-an-introduction"><a href="#3-Write-an-introduction" class="headerlink" title="3. Write an introduction"></a>3. Write an introduction</h2><h3 id="How-to-write-an-introduction"><a href="#How-to-write-an-introduction" class="headerlink" title="How to write an introduction"></a>How to write an introduction</h3><ol><li><p>Grabbers (attention)</p><ul><li>Joke</li><li>Proverb&#x2F;quote</li><li>anecdote </li><li>surprising fact</li><li>curiosity(?)</li></ul></li><li><p>Topic(subject)  -what </p><ul><li>reasons(or main ideas) (3)</li></ul></li><li><p>Thesis -argument</p><ul><li>whether the topic is negative and positive </li><li>5w1h</li></ul></li></ol><h2 id="4-Prove-your-thesis"><a href="#4-Prove-your-thesis" class="headerlink" title="4. Prove your thesis"></a>4. Prove your thesis</h2><p>Essay Body (Structure)</p><h3 id="How-to-write-an-paragraph"><a href="#How-to-write-an-paragraph" class="headerlink" title="How to write an paragraph"></a>How to write an paragraph</h3><ol><li><p>Topic sentence &amp; Closing sentence</p><ul><li>identifies the topic</li><li>states what will be said about the topic</li></ul></li><li><p>Specific details &amp; supporting facts</p><ul><li>Specific details &amp; supporting faccts （for example: Facts, example from a source)</li></ul></li><li><p>Your thinking about the facts</p><ul><li>your own thoughts about the details &amp; facts (analogy, analysis, interpretation or explanation of facts)</li></ul><h2 id=""><a href="#" class="headerlink" title=""></a></h2></li></ol><h2 id="5-Write-your-conclusion"><a href="#5-Write-your-conclusion" class="headerlink" title="5. Write your conclusion"></a>5. Write your conclusion</h2><h2 id="6-Extra-Topic"><a href="#6-Extra-Topic" class="headerlink" title="6. Extra Topic"></a>6. Extra Topic</h2><h3 id="how-to-write-a-summarize"><a href="#how-to-write-a-summarize" class="headerlink" title="how to write a summarize"></a>how to write a summarize</h3><p>how to write a comment</p><h2 id="Reference"><a href="#Reference" class="headerlink" title="Reference:"></a>Reference:</h2><p><a href="https://www.youtube.com/watch?v=Mwv3OlYojWw&amp;t=505s">https://www.youtube.com/watch?v=Mwv3OlYojWw&amp;t=505s</a></p><p><a href="https://www.youtube.com/watch?v=IN6IOSMviS4">https://www.youtube.com/watch?v=IN6IOSMviS4</a></p><p><a href="https://www.youtube.com/watch?v=jLdvEFtUuMM&amp;t=56s">https://www.youtube.com/watch?v=jLdvEFtUuMM&amp;t=56s</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;Five-step-to-write-an-article&quot;&gt;&lt;a href=&quot;#Five-step-to-write-an-article&quot; class=&quot;headerlink&quot; title=&quot;Five step to write an article&quot;&gt;&lt;/a</summary>
-      
-    
-    
-    
-    <category term="English" scheme="https://hehehuang.github.io/categories/English/"/>
-    
-    
-    <category term="Writing" scheme="https://hehehuang.github.io/tags/Writing/"/>
     
   </entry>
   
