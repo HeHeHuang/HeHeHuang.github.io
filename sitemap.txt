@@ -35,8 +35,8 @@ https://hehehuang.github.io/2022/09/23/Array%20&%20Linked%20List/
 https://hehehuang.github.io/2022/09/23/Data%20Engineer/
 https://hehehuang.github.io/2022/09/22/Tree/
 https://hehehuang.github.io/2022/09/22/Sorting/
-https://hehehuang.github.io/categories/index.html
 https://hehehuang.github.io/repository/index.html
+https://hehehuang.github.io/categories/index.html
 https://hehehuang.github.io/books/index.html
 https://hehehuang.github.io/
 https://hehehuang.github.io/tags/AWS/
@@ -47,8 +47,8 @@ https://hehehuang.github.io/tags/Data-Warehouse/
 https://hehehuang.github.io/tags/NoSQL/
 https://hehehuang.github.io/tags/Data-Pipeline/
 https://hehehuang.github.io/tags/PySpark/
-https://hehehuang.github.io/tags/Python/
 https://hehehuang.github.io/tags/SQL/
+https://hehehuang.github.io/tags/Python/
 https://hehehuang.github.io/tags/Generic-Programming/
 https://hehehuang.github.io/tags/Hadoop/
 https://hehehuang.github.io/tags/Mapreduce/
