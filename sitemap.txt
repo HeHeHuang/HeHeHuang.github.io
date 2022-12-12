@@ -52,8 +52,8 @@ https://hehehuang.github.io/tags/SQL/
 https://hehehuang.github.io/tags/Generic-Programming/
 https://hehehuang.github.io/tags/Hadoop/
 https://hehehuang.github.io/tags/Mapreduce/
-https://hehehuang.github.io/tags/Writing/
 https://hehehuang.github.io/tags/Deep-Learning/
+https://hehehuang.github.io/tags/Writing/
 https://hehehuang.github.io/categories/Big-Data/
 https://hehehuang.github.io/categories/Python/
 https://hehehuang.github.io/categories/C/
@@ -64,5 +64,5 @@ https://hehehuang.github.io/categories/English/
 https://hehehuang.github.io/categories/FGBA/
 https://hehehuang.github.io/categories/Learning-Method/
 https://hehehuang.github.io/categories/Machine-Learning/
-https://hehehuang.github.io/categories/Math/
 https://hehehuang.github.io/categories/NLP/
+https://hehehuang.github.io/categories/Math/
