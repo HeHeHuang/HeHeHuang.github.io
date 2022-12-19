@@ -42,12 +42,12 @@ https://hehehuang.github.io/
 https://hehehuang.github.io/tags/AWS/
 https://hehehuang.github.io/tags/Data-Structure/
 https://hehehuang.github.io/tags/Algorithm/
+https://hehehuang.github.io/tags/OOP/
 https://hehehuang.github.io/tags/Data-Warehouse/
 https://hehehuang.github.io/tags/NoSQL/
 https://hehehuang.github.io/tags/Data-Pipeline/
-https://hehehuang.github.io/tags/OOP/
-https://hehehuang.github.io/tags/Python/
 https://hehehuang.github.io/tags/PySpark/
+https://hehehuang.github.io/tags/Python/
 https://hehehuang.github.io/tags/SQL/
 https://hehehuang.github.io/tags/Generic-Programming/
 https://hehehuang.github.io/tags/Hadoop/
@@ -57,9 +57,9 @@ https://hehehuang.github.io/tags/Writing/
 https://hehehuang.github.io/categories/Big-Data/
 https://hehehuang.github.io/categories/Python/
 https://hehehuang.github.io/categories/C/
-https://hehehuang.github.io/categories/Data-Analysis/
 https://hehehuang.github.io/categories/Computer-Composition/
 https://hehehuang.github.io/categories/Big-Data/Cloud-Service/
+https://hehehuang.github.io/categories/Data-Analysis/
 https://hehehuang.github.io/categories/English/
 https://hehehuang.github.io/categories/FGBA/
 https://hehehuang.github.io/categories/Learning-Method/
