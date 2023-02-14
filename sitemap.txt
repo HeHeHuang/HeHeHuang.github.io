@@ -1,3 +1,4 @@
+https://hehehuang.github.io/2023/02/14/%E6%80%9D%E7%BB%B4%E6%A8%A1%E5%9E%8B/
 https://hehehuang.github.io/2023/02/12/%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB/
 https://hehehuang.github.io/2022/12/06/Python-Automation/
 https://hehehuang.github.io/2022/12/03/Requirement-Analysis/
@@ -48,12 +49,12 @@ https://hehehuang.github.io/tags/Data-Warehouse/
 https://hehehuang.github.io/tags/NoSQL/
 https://hehehuang.github.io/tags/Data-Pipeline/
 https://hehehuang.github.io/tags/PySpark/
-https://hehehuang.github.io/tags/Python/
 https://hehehuang.github.io/tags/SQL/
 https://hehehuang.github.io/tags/Generic-Programming/
 https://hehehuang.github.io/tags/Hadoop/
 https://hehehuang.github.io/tags/Mapreduce/
 https://hehehuang.github.io/tags/Deep-Learning/
+https://hehehuang.github.io/tags/Python/
 https://hehehuang.github.io/tags/Writing/
 https://hehehuang.github.io/categories/Big-Data/
 https://hehehuang.github.io/categories/Python/
