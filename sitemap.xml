@@ -405,6 +405,13 @@
   </url>
   
   <url>
+    <loc>https://hehehuang.github.io/tags/OOP/</loc>
+    <lastmod>2023-02-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://hehehuang.github.io/tags/Data-Structure/</loc>
     <lastmod>2023-02-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -413,13 +420,6 @@
   
   <url>
     <loc>https://hehehuang.github.io/tags/Algorithm/</loc>
-    <lastmod>2023-02-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hehehuang.github.io/tags/OOP/</loc>
     <lastmod>2023-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -512,13 +512,6 @@
   </url>
   
   <url>
-    <loc>https://hehehuang.github.io/categories/Python/</loc>
-    <lastmod>2023-02-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://hehehuang.github.io/categories/C/</loc>
     <lastmod>2023-02-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -526,7 +519,7 @@
   </url>
   
   <url>
-    <loc>https://hehehuang.github.io/categories/Computer-Composition/</loc>
+    <loc>https://hehehuang.github.io/categories/Python/</loc>
     <lastmod>2023-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -534,6 +527,13 @@
   
   <url>
     <loc>https://hehehuang.github.io/categories/Big-Data/Cloud-Service/</loc>
+    <lastmod>2023-02-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://hehehuang.github.io/categories/Computer-Composition/</loc>
     <lastmod>2023-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
