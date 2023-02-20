@@ -6,7 +6,7 @@
   <link href="https://hehehuang.github.io/atom.xml" rel="self"/>
   
   <link href="https://hehehuang.github.io/"/>
-  <updated>2023-02-19T15:45:21.342Z</updated>
+  <updated>2023-02-20T15:45:21.234Z</updated>
   <id>https://hehehuang.github.io/</id>
   
   <author>
@@ -17,19 +17,42 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>金融讲义</title>
+    <link href="https://hehehuang.github.io/2023/02/20/%E9%87%91%E8%9E%8D%E8%AE%B2%E4%B9%89/"/>
+    <id>https://hehehuang.github.io/2023/02/20/%E9%87%91%E8%9E%8D%E8%AE%B2%E4%B9%89/</id>
+    <published>2023-02-20T15:44:45.000Z</published>
+    <updated>2023-02-20T15:45:21.234Z</updated>
+    
+    <content type="html"><![CDATA[<p>金融</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;金融&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="金融" scheme="https://hehehuang.github.io/categories/%E9%87%91%E8%9E%8D/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>自我认知</title>
     <link href="https://hehehuang.github.io/2023/02/15/%E8%87%AA%E6%88%91%E8%AE%A4%E7%9F%A5/"/>
     <id>https://hehehuang.github.io/2023/02/15/%E8%87%AA%E6%88%91%E8%AE%A4%E7%9F%A5/</id>
     <published>2023-02-15T15:49:02.000Z</published>
-    <updated>2023-02-19T15:45:21.342Z</updated>
+    <updated>2023-02-20T15:43:49.727Z</updated>
     
-    <content type="html"><![CDATA[<p>hhii mei kaishi </p><p>hhh</p>]]></content>
+    <content type="html"><![CDATA[<p>hhii mei kaishi </p><p>hhhhh</p>]]></content>
     
     
       
       
     <summary type="html">&lt;p&gt;hhii mei kaishi &lt;/p&gt;
-&lt;p&gt;hhh&lt;/p&gt;
+&lt;p&gt;hhhhh&lt;/p&gt;
 </summary>
       
     
@@ -437,34 +460,6 @@
     
     
     <category term="PySpark" scheme="https://hehehuang.github.io/tags/PySpark/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Data Science</title>
-    <link href="https://hehehuang.github.io/2022/09/29/Data-Science/"/>
-    <id>https://hehehuang.github.io/2022/09/29/Data-Science/</id>
-    <published>2022-09-28T19:10:26.000Z</published>
-    <updated>2022-10-14T18:22:57.274Z</updated>
-    
-    <content type="html"><![CDATA[<ol><li><p>Statistics</p><ul><li>Descriptive Statistic<ul><li>Visualization of data</li></ul></li><li>Inferential Statistics<ul><li>One sample test of difference&#x2F;One sample hypothesis test.</li><li>Confidence Interval</li><li>Contingency Tables and Chi Square Statistic</li><li>T-test or Anova</li><li>Pearson Correlation</li><li>Bi-variate Regression</li><li>Multi-variate Regression</li></ul></li></ul></li><li><p>Probability</p><ul><li><p>Random variable</p></li><li><p>Discrete variable </p></li><li><p>Continous variable</p></li></ul></li><li><h2 id="Line-Algebra"><a href="#Line-Algebra" class="headerlink" title="Line Algebra"></a>Line Algebra</h2></li><li><p>Calculus</p></li><li><p>Optimization</p><ul><li>Gradient descent</li></ul></li><li><p>Python</p><ul><li>Python Basic</li><li>Python Advance</li><li>Algorithm</li><li>Visualization</li></ul></li><li><p>Web Scraping</p></li><li><p>Machine Learning</p><ul><li><p>Superivor Learning</p><ul><li><p>Regression</p></li><li><p>Classification</p></li></ul></li><li><p>Unsuperivor Learning</p><ul><li>Clusting</li></ul></li></ul></li><li><p>Deep Learning</p><ul><li>DNN</li><li>CNN</li></ul></li><li><p>NLP</p></li><li><p>Computer Vision</p></li><li><p>Data Mining</p><ul><li>Network Analysis</li><li>Recommender System</li></ul></li><li><p>Big Data </p><ul><li>Batching Processing<ul><li>Hadoop</li><li>Spark</li><li>Hive</li><li>Kafka</li><li>Flink</li><li>Reids</li></ul></li><li>Stream Processing</li></ul></li><li><p>SQL</p><ul><li>Relation SQL</li><li>NOSQL</li></ul></li><li><p>AWS</p></li><li><p>Docker &amp; K8s </p></li><li><p>Python GUI</p></li><li><p>Web Development</p></li><li><p>fundatmetals</p></li><li><p>statistics</p></li><li><p>programming</p></li><li><p>machine learning</p></li><li><p>text ming&#x2F;nlp</p></li><li></li><li><p>big data</p></li><li><p>data ingestion</p></li><li><p>data munging</p></li><li><p>Tool box</p></li></ol>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Statistics&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Descriptive Statistic&lt;ul&gt;
-&lt;li&gt;Visualization of data&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Inferential Statistics&lt;ul&gt;
-&lt;li&gt;</summary>
-      
-    
-    
-    
     
   </entry>
   
