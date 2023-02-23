@@ -6,7 +6,7 @@
   <link href="https://hehehuang.github.io/atom.xml" rel="self"/>
   
   <link href="https://hehehuang.github.io/"/>
-  <updated>2023-02-22T15:40:28.000Z</updated>
+  <updated>2023-02-23T14:27:53.928Z</updated>
   <id>https://hehehuang.github.io/</id>
   
   <author>
@@ -15,6 +15,19 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>量化投资</title>
+    <link href="https://hehehuang.github.io/2023/02/23/%E9%87%8F%E5%8C%96%E6%8A%95%E8%B5%84/"/>
+    <id>https://hehehuang.github.io/2023/02/23/%E9%87%8F%E5%8C%96%E6%8A%95%E8%B5%84/</id>
+    <published>2023-02-23T14:27:53.000Z</published>
+    <updated>2023-02-23T14:27:53.928Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>金融讲义</title>
@@ -444,23 +457,6 @@
     
     
     <category term="OOP" scheme="https://hehehuang.github.io/tags/OOP/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Recommender System</title>
-    <link href="https://hehehuang.github.io/2022/09/29/Recommender-System/"/>
-    <id>https://hehehuang.github.io/2022/09/29/Recommender-System/</id>
-    <published>2022-09-29T12:38:48.000Z</published>
-    <updated>2022-09-29T12:39:42.839Z</updated>
-    
-    
-    
-    
-    <category term="Big Data" scheme="https://hehehuang.github.io/categories/Big-Data/"/>
-    
-    
-    <category term="PySpark" scheme="https://hehehuang.github.io/tags/PySpark/"/>
     
   </entry>
   
