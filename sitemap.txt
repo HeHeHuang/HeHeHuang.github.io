@@ -1,3 +1,4 @@
+https://hehehuang.github.io/2023/05/21/Azure/
 https://hehehuang.github.io/2022/09/23/Data-Analysis-with-Python/
 https://hehehuang.github.io/2023/02/20/%E9%87%91%E8%9E%8D%E8%AE%B2%E4%B9%89/
 https://hehehuang.github.io/2023/02/23/%E9%87%8F%E5%8C%96%E6%8A%95%E8%B5%84/
@@ -48,10 +49,10 @@ https://hehehuang.github.io/tags/AWS/
 https://hehehuang.github.io/tags/Data-Structure/
 https://hehehuang.github.io/tags/Algorithm/
 https://hehehuang.github.io/tags/OOP/
-https://hehehuang.github.io/tags/PySpark/
 https://hehehuang.github.io/tags/Data-Warehouse/
 https://hehehuang.github.io/tags/NoSQL/
 https://hehehuang.github.io/tags/Data-Pipeline/
+https://hehehuang.github.io/tags/PySpark/
 https://hehehuang.github.io/tags/Python/
 https://hehehuang.github.io/tags/SQL/
 https://hehehuang.github.io/tags/Generic-Programming/
@@ -63,8 +64,8 @@ https://hehehuang.github.io/categories/Big-Data/
 https://hehehuang.github.io/categories/Python/
 https://hehehuang.github.io/categories/C/
 https://hehehuang.github.io/categories/Computer-Composition/
-https://hehehuang.github.io/categories/Data-Analysis/
 https://hehehuang.github.io/categories/Big-Data/Cloud-Service/
+https://hehehuang.github.io/categories/Data-Analysis/
 https://hehehuang.github.io/categories/English/
 https://hehehuang.github.io/categories/FGBA/
 https://hehehuang.github.io/categories/Learning-Method/

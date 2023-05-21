@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://hehehuang.github.io/2023/05/21/Azure/</loc>
+    
+    <lastmod>2023-05-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://hehehuang.github.io/2022/09/23/Data-Analysis-with-Python/</loc>
     
     <lastmod>2023-05-21</lastmod>
@@ -444,13 +453,6 @@
   </url>
   
   <url>
-    <loc>https://hehehuang.github.io/tags/PySpark/</loc>
-    <lastmod>2023-05-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://hehehuang.github.io/tags/Data-Warehouse/</loc>
     <lastmod>2023-05-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -466,6 +468,13 @@
   
   <url>
     <loc>https://hehehuang.github.io/tags/Data-Pipeline/</loc>
+    <lastmod>2023-05-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://hehehuang.github.io/tags/PySpark/</loc>
     <lastmod>2023-05-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -551,14 +560,14 @@
   </url>
   
   <url>
-    <loc>https://hehehuang.github.io/categories/Data-Analysis/</loc>
+    <loc>https://hehehuang.github.io/categories/Big-Data/Cloud-Service/</loc>
     <lastmod>2023-05-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://hehehuang.github.io/categories/Big-Data/Cloud-Service/</loc>
+    <loc>https://hehehuang.github.io/categories/Data-Analysis/</loc>
     <lastmod>2023-05-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
